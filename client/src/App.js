@@ -37,7 +37,10 @@ function App() {
 
   const handleTopicChange = (topic) => {
     setSelectedTopic(topic);
-    // Don't reset stats - keep running score across all topics
+    // Reset stats when switching topics
+    setScore(0);
+    setStreak(0);
+    setTotalQuestions(0);
   };
 
   const handleAnswerSelect = (answer) => {
