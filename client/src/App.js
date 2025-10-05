@@ -9,10 +9,11 @@ function App() {
   const [score, setScore] = useState(0);
   const [totalQuestions, setTotalQuestions] = useState(0);
   const [streak, setStreak] = useState(0);
+  const [selectedTopic, setSelectedTopic] = useState('all');
 
   useEffect(() => {
     fetchQuestion();
-  }, []);
+  }, [selectedTopic]);
 
   const fetchQuestion = async () => {
     setLoading(true);
@@ -20,7 +21,10 @@ function App() {
     setShowResult(false);
 
     try {
-      const response = await fetch('/api/question');
+      const url = selectedTopic === 'all'
+        ? '/api/question'
+        : `/api/question?topic=${encodeURIComponent(selectedTopic)}`;
+      const response = await fetch(url);
       const data = await response.json();
       setQuestion(data);
     } catch (error) {
@@ -29,6 +33,11 @@ function App() {
     } finally {
       setLoading(false);
     }
+  };
+
+  const handleTopicChange = (topic) => {
+    setSelectedTopic(topic);
+    // Don't reset stats - keep running score across all topics
   };
 
   const handleAnswerSelect = (answer) => {
@@ -72,6 +81,34 @@ function App() {
       <div className="container">
         <header className="header">
           <h1>⚛️ Newton's Laws Quiz</h1>
+
+          <div className="topic-selector">
+            <button
+              className={`topic-btn ${selectedTopic === 'all' ? 'active' : ''}`}
+              onClick={() => handleTopicChange('all')}
+            >
+              All Laws
+            </button>
+            <button
+              className={`topic-btn ${selectedTopic === "Newton's First Law" ? 'active' : ''}`}
+              onClick={() => handleTopicChange("Newton's First Law")}
+            >
+              1st Law
+            </button>
+            <button
+              className={`topic-btn ${selectedTopic === "Newton's Second Law" ? 'active' : ''}`}
+              onClick={() => handleTopicChange("Newton's Second Law")}
+            >
+              2nd Law
+            </button>
+            <button
+              className={`topic-btn ${selectedTopic === "Newton's Third Law" ? 'active' : ''}`}
+              onClick={() => handleTopicChange("Newton's Third Law")}
+            >
+              3rd Law
+            </button>
+          </div>
+
           <div className="stats">
             <div className="stat">
               <span className="stat-label">Score</span>

@@ -2,7 +2,6 @@ const express = require('express');
 const cors = require('cors');
 const path = require('path');
 const fs = require('fs').promises;
-require('dotenv').config();
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -47,16 +46,28 @@ async function loadQuestions() {
 // Initialize on startup
 loadQuestions();
 
-// Get a random question
+// Get a random question (optionally filtered by topic)
 app.get('/api/question', (req, res) => {
   try {
     if (!isInitialized || allQuestions.length === 0) {
       return res.status(503).json({ error: 'Server is still initializing. Please try again.' });
     }
 
+    // Filter by topic if requested
+    const { topic } = req.query;
+    let filteredQuestions = allQuestions;
+
+    if (topic && topic !== 'all') {
+      filteredQuestions = allQuestions.filter(q => q.topic === topic);
+    }
+
+    if (filteredQuestions.length === 0) {
+      return res.status(404).json({ error: 'No questions found for this topic' });
+    }
+
     // Get a random question
-    const randomIndex = Math.floor(Math.random() * allQuestions.length);
-    const question = allQuestions[randomIndex];
+    const randomIndex = Math.floor(Math.random() * filteredQuestions.length);
+    const question = filteredQuestions[randomIndex];
 
     // Format response to match frontend expectations
     const formattedQuestion = {
