@@ -1,0 +1,121 @@
+Essential Questions
+1. How can one plus one not equal two?
+2. What makes objects move the way they do?
+3. How can we describe forces without words and
+numbers?
+
+Force
+Newton’s Laws
+Newton’s Second Law
+
+Enduring Understanding - A net force is required to change an object's velocity; no force is required
+to explain constant velocity.
+
+Learning Targets: 7, 8, 10, 11
+
+Recall
+An UNBALANCED force is required to change an object’s motion. An UNBALANCED Force is also called the
+NET force and is equal to the sum of all forces, ΣF.
+UNBALANCED Force = NET Force = ΣF (sum of forces)
+Σ is the capital Greek letter sigma and means to sum or add up. In the case of ΣF it means to add up all the
+forces acting on an object.
+1. Describe the motion of an object experiencing an UNBALANCED force.
+
+Newton’s Second Law of Motion
+The acceleration of an object is proportional to the net force applied to the object and inversely proportional
+to the object’s mass.
+2.
+
+3.
+
+Express Newton’s Second Law as a mathematical proportion.
+acceleration is proportional (α) to the
+net force applied to the object
+
+acceleration is inversely proportional
+to the object’s mass
+
+a α _____
+
+a α _____
+
+Express Newton’s Second Law as a mathematical equation.
+
+How do we know if we have an unbalanced force and if so in what direction is it acting? The solution to this
+problem is the construction of Free-Body Diagrams or FBDs.
+Free-Body Diagram Construction
+A free body diagram (FBD) is a vector drawing of all OUTSIDE (external) forces acting on an object.
+Guidelines for drawing FBD’s
+● Forces are vectors and must include magnitude and direction.
+● Force vectors are drawn from the center of the object and always point away from the object to indicate
+the effect the force has on the object.
+● Each vector must be labeled with the type of force it represents.
+For the following scenarios, use the following:
+W or Fg = Force of Gravity
+
+FThrust = FT = force of thrust
+
+FLift = FL = force of lift
+
+Fdrag = Fd = Frictional force that opposes motion,
+air resistance
+
+Horizontal and Vertical Forces
+Draw the weight vector equal to 2 cm.
+
+A jet plane is gliding at a constant elevation at a
+constant velocity. Draw the Free-Body Diagram of
+the forces acting on the plane.
+NO air resistance
+
+A jet plane is flying at a constant elevation at a
+constant velocity. Draw the Free-Body Diagram of
+the forces acting on the plane.
+Consider Air Resistance.
+
+Circle the correct term in each statement.
+
+Circle the correct term in each statement.
+
+The forces are balanced / unbalanced along x
+axis
+
+The forces are balanced / unbalanced along x axis
+Newton’s 1st / 2nd law applies to the x axis.
+
+Newton’s 1st / 2nd law applies to the x axis.
+The forces are balanced / unbalanced along y axis
+The forces are balanced / unbalanced along y
+axis
+
+Newton’s 1st / 2nd law applies to the y axis.
+
+Newton’s 1st / 2nd law applies to the y axis.
+
+A jet plane is flying at a constant elevation with an
+increasing velocity. Draw the Free-Body Diagram
+of the forces acting on the plane. Consider Air
+Resistance.
+Circle the correct term in each statement.
+The forces are balanced / unbalanced along x
+axis
+Newton’s 1st / 2nd law applies to the x axis.
+The forces are balanced / unbalanced along y
+axis
+Newton’s 1st / 2nd law applies to the y axis.
+
+A jet plane is flying at a constant elevation with a
+decreasing velocity. Draw the Free-Body Diagram of
+the forces acting on the plane. Consider Air
+Resistance.
+Circle the correct term in each statement.
+The forces are balanced / unbalanced along x axis
+Newton’s 1st / 2nd law applies to the x axis.
+The forces are balanced / unbalanced along y axis
+Newton’s 1st / 2nd law applies to the y axis.
+
+What is the relationship between net force and acceleration?
+
+http://www.animationfactory.com/en/search/close-up.html?&oid=4969182&s=176&sc=176&st=227&category_id=E1&q=airplane&spage=8&hoid=e47433d4088280058a30b9b297c888e8
+
+

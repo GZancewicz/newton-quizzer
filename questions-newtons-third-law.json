@@ -1,0 +1,1005 @@
+{
+  "topic": "Newton's Third Law",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Newton's Third Law of Motion?",
+      "answers": [
+        { "text": "When two bodies interact, forces are equal in magnitude and opposite in direction", "correct": true },
+        { "text": "An object in motion stays in motion", "correct": false },
+        { "text": "F = ma", "correct": false },
+        { "text": "Energy cannot be created or destroyed", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Action-reaction force pairs are always:",
+      "answers": [
+        { "text": "Equal in magnitude and opposite in direction", "correct": true },
+        { "text": "Equal in magnitude and same direction", "correct": false },
+        { "text": "Unequal in magnitude", "correct": false },
+        { "text": "Only equal sometimes", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "When you push your hands together, which hand applies the greatest force?",
+      "answers": [
+        { "text": "Neither - they apply equal force", "correct": true },
+        { "text": "Right hand", "correct": false },
+        { "text": "Left hand", "correct": false },
+        { "text": "The dominant hand", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does FTYPE, ON, FROM notation represent?",
+      "answers": [
+        { "text": "Type of force, what it acts on, where it comes from", "correct": true },
+        { "text": "Force total, object number, force range", "correct": false },
+        { "text": "Final time, original number, final result", "correct": false },
+        { "text": "Friction type, object name, force magnitude", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "The force of gravity acting on you from Earth is written as:",
+      "answers": [
+        { "text": "Fg,YOU,EARTH", "correct": true },
+        { "text": "Fg,EARTH,YOU", "correct": false },
+        { "text": "FYOU,g,EARTH", "correct": false },
+        { "text": "FEARTH,YOU,g", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How many conditions must action-reaction force pairs satisfy?",
+      "answers": [
+        { "text": "3 conditions", "correct": true },
+        { "text": "2 conditions", "correct": false },
+        { "text": "4 conditions", "correct": false },
+        { "text": "5 conditions", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Action-reaction forces must be what type?",
+      "answers": [
+        { "text": "The same type", "correct": true },
+        { "text": "Different types", "correct": false },
+        { "text": "One gravity, one friction", "correct": false },
+        { "text": "Any combination", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Action-reaction forces must act on:",
+      "answers": [
+        { "text": "Different objects", "correct": true },
+        { "text": "The same object", "correct": false },
+        { "text": "Three or more objects", "correct": false },
+        { "text": "No objects", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "For action-reaction pairs, the subscripts must be:",
+      "answers": [
+        { "text": "Reversible", "correct": true },
+        { "text": "Identical", "correct": false },
+        { "text": "Different", "correct": false },
+        { "text": "Numerical", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "The equation Fon,from = Ffrom,on represents:",
+      "answers": [
+        { "text": "Reversible subscripts condition", "correct": true },
+        { "text": "Newton's Second Law", "correct": false },
+        { "text": "Conservation of energy", "correct": false },
+        { "text": "Momentum transfer", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Internal forces come in:",
+      "answers": [
+        { "text": "Action-reaction pairs", "correct": true },
+        { "text": "Single forces", "correct": false },
+        { "text": "Groups of three", "correct": false },
+        { "text": "Random numbers", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Internal forces in a system always:",
+      "answers": [
+        { "text": "Cancel each other out", "correct": true },
+        { "text": "Add together", "correct": false },
+        { "text": "Create acceleration", "correct": false },
+        { "text": "Point upward", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "The sum of internal forces is always:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Positive", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Maximum", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Can a horse and earth system (considered as one object) accelerate due to internal forces?",
+      "answers": [
+        { "text": "No", "correct": true },
+        { "text": "Yes", "correct": false },
+        { "text": "Sometimes", "correct": false },
+        { "text": "Only if the horse runs fast", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What is an external force?",
+      "answers": [
+        { "text": "A force that originates from outside the object", "correct": true },
+        { "text": "A force within the object", "correct": false },
+        { "text": "A force that is very large", "correct": false },
+        { "text": "A force from gravity only", "correct": false }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "The net force on an object is the sum of:",
+      "answers": [
+        { "text": "All external forces", "correct": true },
+        { "text": "All internal forces", "correct": false },
+        { "text": "Both internal and external forces", "correct": false },
+        { "text": "No forces", "correct": false }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Where does the net force on a horse originate from?",
+      "answers": [
+        { "text": "External sources (like the ground)", "correct": true },
+        { "text": "The horse's muscles", "correct": false },
+        { "text": "The horse's heart", "correct": false },
+        { "text": "The horse's brain", "correct": false }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Action-reaction pairs are drawn on:",
+      "answers": [
+        { "text": "Different Free-Body Diagrams", "correct": true },
+        { "text": "The same Free-Body Diagram", "correct": false },
+        { "text": "No diagram", "correct": false },
+        { "text": "A velocity-time graph", "correct": false }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "If you push on a wall, the wall pushes back on you with:",
+      "answers": [
+        { "text": "Equal force in opposite direction", "correct": true },
+        { "text": "Greater force", "correct": false },
+        { "text": "Smaller force", "correct": false },
+        { "text": "No force", "correct": false }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "When bodies interact, how many forces are involved?",
+      "answers": [
+        { "text": "Two (action-reaction pair)", "correct": true },
+        { "text": "One", "correct": false },
+        { "text": "Three", "correct": false },
+        { "text": "Four", "correct": false }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "The force on your right hand from your left hand is _____ the force on your left hand from your right hand.",
+      "answers": [
+        { "text": "Equal in magnitude and opposite to", "correct": true },
+        { "text": "Greater than", "correct": false },
+        { "text": "Less than", "correct": false },
+        { "text": "Unrelated to", "correct": false }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Newton's Third Law applies to:",
+      "answers": [
+        { "text": "All interacting bodies", "correct": true },
+        { "text": "Only objects at rest", "correct": false },
+        { "text": "Only moving objects", "correct": false },
+        { "text": "Only large objects", "correct": false }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "If Earth pulls on you with gravity, you pull on Earth with:",
+      "answers": [
+        { "text": "Equal force", "correct": true },
+        { "text": "Much smaller force", "correct": false },
+        { "text": "No force", "correct": false },
+        { "text": "Greater force", "correct": false }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Why don't we see Earth accelerate when we jump?",
+      "answers": [
+        { "text": "Earth's mass is so large the acceleration is imperceptible", "correct": true },
+        { "text": "Earth doesn't experience a force", "correct": false },
+        { "text": "We don't actually pull on Earth", "correct": false },
+        { "text": "Gravity only works one way", "correct": false }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "In the notation Fg,YOU,EARTH, 'YOU' represents:",
+      "answers": [
+        { "text": "What the force acts ON", "correct": true },
+        { "text": "Where the force comes FROM", "correct": false },
+        { "text": "The type of force", "correct": false },
+        { "text": "The magnitude", "correct": false }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "In the notation Fg,YOU,EARTH, 'EARTH' represents:",
+      "answers": [
+        { "text": "Where the force comes FROM", "correct": true },
+        { "text": "What the force acts ON", "correct": false },
+        { "text": "The type of force", "correct": false },
+        { "text": "The direction", "correct": false }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "In the notation Fg,YOU,EARTH, 'g' represents:",
+      "answers": [
+        { "text": "The TYPE of force (gravity)", "correct": true },
+        { "text": "What the force acts on", "correct": false },
+        { "text": "Where the force comes from", "correct": false },
+        { "text": "The acceleration", "correct": false }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Action-reaction pairs act on _____ object(s).",
+      "answers": [
+        { "text": "Different", "correct": true },
+        { "text": "The same", "correct": false },
+        { "text": "Three", "correct": false },
+        { "text": "No", "correct": false }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Can internal forces cause a system to accelerate?",
+      "answers": [
+        { "text": "No", "correct": true },
+        { "text": "Yes", "correct": false },
+        { "text": "Sometimes", "correct": false },
+        { "text": "Only if very large", "correct": false }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "What causes a horse to accelerate forward?",
+      "answers": [
+        { "text": "External force from the ground", "correct": true },
+        { "text": "The horse's muscles", "correct": false },
+        { "text": "Internal forces", "correct": false },
+        { "text": "The cart behind it", "correct": false }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "If a book sits on a table, how many forces act on the book?",
+      "answers": [
+        { "text": "At least 2 (gravity down, normal up)", "correct": true },
+        { "text": "Only 1 (gravity)", "correct": false },
+        { "text": "Zero", "correct": false },
+        { "text": "Exactly 3", "correct": false }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "The normal force from a table on a book and the weight of the book are:",
+      "answers": [
+        { "text": "NOT an action-reaction pair", "correct": true },
+        { "text": "An action-reaction pair", "correct": false },
+        { "text": "The same force", "correct": false },
+        { "text": "Internal forces", "correct": false }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Why aren't normal force and weight action-reaction pairs?",
+      "answers": [
+        { "text": "They act on the same object", "correct": true },
+        { "text": "They are different magnitudes", "correct": false },
+        { "text": "They are different types", "correct": false },
+        { "text": "They aren't equal", "correct": false }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "For a horse walking, the action-reaction pair to the normal force on horse from Earth is:",
+      "answers": [
+        { "text": "Normal force on Earth from horse", "correct": true },
+        { "text": "Gravity on horse", "correct": false },
+        { "text": "Friction on horse", "correct": false },
+        { "text": "Thrust force", "correct": false }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "For a horse walking, the action-reaction pair to gravity on horse from Earth is:",
+      "answers": [
+        { "text": "Gravity on Earth from horse", "correct": true },
+        { "text": "Normal force on horse", "correct": false },
+        { "text": "Friction on ground", "correct": false },
+        { "text": "Air resistance", "correct": false }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "When you clap your hands, the forces are:",
+      "answers": [
+        { "text": "Equal and opposite action-reaction pair", "correct": true },
+        { "text": "Unequal", "correct": false },
+        { "text": "Only on one hand", "correct": false },
+        { "text": "Not related", "correct": false }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "The force type for Fapplied, HAND, YOU would be:",
+      "answers": [
+        { "text": "Applied force", "correct": true },
+        { "text": "Gravity", "correct": false },
+        { "text": "Friction", "correct": false },
+        { "text": "Normal", "correct": false }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "If object A pushes on object B with 10N, object B pushes on A with:",
+      "answers": [
+        { "text": "10N in the opposite direction", "correct": true },
+        { "text": "5N in the opposite direction", "correct": false },
+        { "text": "20N in the same direction", "correct": false },
+        { "text": "0N", "correct": false }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Action-reaction pairs act:",
+      "answers": [
+        { "text": "Simultaneously", "correct": true },
+        { "text": "One after the other", "correct": false },
+        { "text": "With a time delay", "correct": false },
+        { "text": "Never at the same time", "correct": false }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Which statement is true about action-reaction pairs?",
+      "answers": [
+        { "text": "They are always equal in magnitude", "correct": true },
+        { "text": "One is always larger", "correct": false },
+        { "text": "They point in the same direction", "correct": false },
+        { "text": "They act on the same object", "correct": false }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "A rocket pushes gas backward. The gas pushes the rocket:",
+      "answers": [
+        { "text": "Forward with equal force", "correct": true },
+        { "text": "Backward with equal force", "correct": false },
+        { "text": "Forward with greater force", "correct": false },
+        { "text": "Not at all", "correct": false }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "When swimming, you push water backward. Water pushes you:",
+      "answers": [
+        { "text": "Forward", "correct": true },
+        { "text": "Backward", "correct": false },
+        { "text": "Downward", "correct": false },
+        { "text": "Not at all", "correct": false }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "The sum of all forces in the universe is:",
+      "answers": [
+        { "text": "Zero (all forces come in pairs)", "correct": true },
+        { "text": "Positive", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Infinite", "correct": false }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Is the sum of forces in the universe odd or even?",
+      "answers": [
+        { "text": "Even (always zero, forces in pairs)", "correct": true },
+        { "text": "Odd", "correct": false },
+        { "text": "Sometimes odd, sometimes even", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "When you walk forward, you push backward on:",
+      "answers": [
+        { "text": "The ground", "correct": true },
+        { "text": "The air", "correct": false },
+        { "text": "Yourself", "correct": false },
+        { "text": "Nothing", "correct": false }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "When you walk, the ground pushes you:",
+      "answers": [
+        { "text": "Forward", "correct": true },
+        { "text": "Backward", "correct": false },
+        { "text": "Upward only", "correct": false },
+        { "text": "Not at all", "correct": false }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "External forces are necessary for:",
+      "answers": [
+        { "text": "Accelerating an object", "correct": true },
+        { "text": "Keeping velocity constant", "correct": false },
+        { "text": "Preventing motion", "correct": false },
+        { "text": "Creating mass", "correct": false }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "A horse pulls a cart. What provides the force that accelerates the horse forward?",
+      "answers": [
+        { "text": "The ground pushing on the horse's hooves", "correct": true },
+        { "text": "The cart pulling back", "correct": false },
+        { "text": "The horse's muscles", "correct": false },
+        { "text": "Air resistance", "correct": false }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "How many objects are involved in an action-reaction pair?",
+      "answers": [
+        { "text": "Two", "correct": true },
+        { "text": "One", "correct": false },
+        { "text": "Three", "correct": false },
+        { "text": "Four", "correct": false }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "If you pull on a rope, the rope pulls back with:",
+      "answers": [
+        { "text": "Equal force", "correct": true },
+        { "text": "Greater force", "correct": false },
+        { "text": "Smaller force", "correct": false },
+        { "text": "No force", "correct": false }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "In FTYPE, ON, FROM, how many parts are there?",
+      "answers": [
+        { "text": "Three", "correct": true },
+        { "text": "Two", "correct": false },
+        { "text": "Four", "correct": false },
+        { "text": "Five", "correct": false }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Which correctly shows an action-reaction pair?",
+      "answers": [
+        { "text": "FA,B = -FB,A", "correct": true },
+        { "text": "FA,B = FB,A", "correct": false },
+        { "text": "FA,B > FB,A", "correct": false },
+        { "text": "FA,B < FB,A", "correct": false }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Forces that come from within a system are called:",
+      "answers": [
+        { "text": "Internal forces", "correct": true },
+        { "text": "External forces", "correct": false },
+        { "text": "Applied forces", "correct": false },
+        { "text": "Net forces", "correct": false }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Forces that come from outside a system are called:",
+      "answers": [
+        { "text": "External forces", "correct": true },
+        { "text": "Internal forces", "correct": false },
+        { "text": "Reaction forces", "correct": false },
+        { "text": "Balanced forces", "correct": false }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "A system can only accelerate due to:",
+      "answers": [
+        { "text": "External forces", "correct": true },
+        { "text": "Internal forces", "correct": false },
+        { "text": "Both external and internal", "correct": false },
+        { "text": "No forces", "correct": false }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "When a car accelerates forward, what pushes it?",
+      "answers": [
+        { "text": "The road pushes the tires forward", "correct": true },
+        { "text": "The engine pushes the car", "correct": false },
+        { "text": "The air pushes from behind", "correct": false },
+        { "text": "The fuel combustion", "correct": false }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "In tug-of-war, do both teams pull with the same force on the rope?",
+      "answers": [
+        { "text": "Yes, action-reaction pairs", "correct": true },
+        { "text": "No, the winning team pulls harder", "correct": false },
+        { "text": "No, the losing team pulls harder", "correct": false },
+        { "text": "It varies", "correct": false }
+      ]
+    },
+    {
+      "id": 58,
+      "question": "In tug-of-war, what determines which team wins?",
+      "answers": [
+        { "text": "The force from the ground on each team", "correct": true },
+        { "text": "How hard they pull on the rope", "correct": false },
+        { "text": "The rope strength", "correct": false },
+        { "text": "Team weight only", "correct": false }
+      ]
+    },
+    {
+      "id": 59,
+      "question": "The third condition for action-reaction pairs is:",
+      "answers": [
+        { "text": "Subscripts must be reversible", "correct": true },
+        { "text": "Forces must be large", "correct": false },
+        { "text": "Must involve gravity", "correct": false },
+        { "text": "Must be horizontal", "correct": false }
+      ]
+    },
+    {
+      "id": 60,
+      "question": "The second condition for action-reaction pairs is:",
+      "answers": [
+        { "text": "Forces act on different objects", "correct": true },
+        { "text": "Forces act on the same object", "correct": false },
+        { "text": "Forces are very large", "correct": false },
+        { "text": "Forces point upward", "correct": false }
+      ]
+    },
+    {
+      "id": 61,
+      "question": "The first condition for action-reaction pairs is:",
+      "answers": [
+        { "text": "Forces must be the same type", "correct": true },
+        { "text": "Forces must be different types", "correct": false },
+        { "text": "Forces must be balanced", "correct": false },
+        { "text": "Forces must be vertical", "correct": false }
+      ]
+    },
+    {
+      "id": 62,
+      "question": "If the horse pushes back on the ground with friction, the ground:",
+      "answers": [
+        { "text": "Pushes forward on the horse with friction", "correct": true },
+        { "text": "Pushes back on the horse", "correct": false },
+        { "text": "Does not push on the horse", "correct": false },
+        { "text": "Pushes down on the horse", "correct": false }
+      ]
+    },
+    {
+      "id": 63,
+      "question": "When you jump, you push down on Earth. Earth pushes:",
+      "answers": [
+        { "text": "Up on you", "correct": true },
+        { "text": "Down on you", "correct": false },
+        { "text": "Not at all", "correct": false },
+        { "text": "Sideways", "correct": false }
+      ]
+    },
+    {
+      "id": 64,
+      "question": "Action and reaction forces are:",
+      "answers": [
+        { "text": "Simultaneous", "correct": true },
+        { "text": "Sequential", "correct": false },
+        { "text": "Delayed", "correct": false },
+        { "text": "Random", "correct": false }
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Can action-reaction pairs cancel each other?",
+      "answers": [
+        { "text": "No, they act on different objects", "correct": true },
+        { "text": "Yes, they always cancel", "correct": false },
+        { "text": "Sometimes", "correct": false },
+        { "text": "Only if equal magnitude", "correct": false }
+      ]
+    },
+    {
+      "id": 66,
+      "question": "Why don't action-reaction pairs cancel each other?",
+      "answers": [
+        { "text": "They act on different objects", "correct": true },
+        { "text": "They are different magnitudes", "correct": false },
+        { "text": "They are different types", "correct": false },
+        { "text": "They point in same direction", "correct": false }
+      ]
+    },
+    {
+      "id": 67,
+      "question": "When a bat hits a ball, the force on the ball compared to the force on the bat is:",
+      "answers": [
+        { "text": "Equal in magnitude", "correct": true },
+        { "text": "Much larger", "correct": false },
+        { "text": "Much smaller", "correct": false },
+        { "text": "Zero", "correct": false }
+      ]
+    },
+    {
+      "id": 68,
+      "question": "If a small car crashes into a large truck, which force is greater?",
+      "answers": [
+        { "text": "The forces are equal", "correct": true },
+        { "text": "Force on car is greater", "correct": false },
+        { "text": "Force on truck is greater", "correct": false },
+        { "text": "Depends on speed", "correct": false }
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Why does the car get more damaged in a car-truck collision?",
+      "answers": [
+        { "text": "The car has less mass, so greater acceleration (F=ma)", "correct": true },
+        { "text": "The car experiences greater force", "correct": false },
+        { "text": "The truck is stronger", "correct": false },
+        { "text": "The forces are unequal", "correct": false }
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Newton's Third Law is sometimes stated as:",
+      "answers": [
+        { "text": "For every action there is an equal and opposite reaction", "correct": true },
+        { "text": "F = ma", "correct": false },
+        { "text": "Objects in motion stay in motion", "correct": false },
+        { "text": "Energy is conserved", "correct": false }
+      ]
+    },
+    {
+      "id": 71,
+      "question": "The magnitude of action-reaction forces is:",
+      "answers": [
+        { "text": "Always equal", "correct": true },
+        { "text": "Sometimes equal", "correct": false },
+        { "text": "Never equal", "correct": false },
+        { "text": "Equal only at rest", "correct": false }
+      ]
+    },
+    {
+      "id": 72,
+      "question": "The direction of action-reaction forces is:",
+      "answers": [
+        { "text": "Always opposite", "correct": true },
+        { "text": "Sometimes opposite", "correct": false },
+        { "text": "Always the same", "correct": false },
+        { "text": "Perpendicular", "correct": false }
+      ]
+    },
+    {
+      "id": 73,
+      "question": "A horse pulls a cart with force F. The cart pulls back on the horse with force:",
+      "answers": [
+        { "text": "F (equal magnitude)", "correct": true },
+        { "text": "Less than F", "correct": false },
+        { "text": "Greater than F", "correct": false },
+        { "text": "Zero", "correct": false }
+      ]
+    },
+    {
+      "id": 74,
+      "question": "If the cart pulls back on the horse with equal force, why does the system move?",
+      "answers": [
+        { "text": "Ground pushes horse forward (external force)", "correct": true },
+        { "text": "The horse is stronger", "correct": false },
+        { "text": "The forces aren't really equal", "correct": false },
+        { "text": "The cart is lighter", "correct": false }
+      ]
+    },
+    {
+      "id": 75,
+      "question": "Ffriction, HORSE, EARTH and Ffriction, EARTH, HORSE are:",
+      "answers": [
+        { "text": "An action-reaction pair", "correct": true },
+        { "text": "Two different unrelated forces", "correct": false },
+        { "text": "The same force", "correct": false },
+        { "text": "Internal forces", "correct": false }
+      ]
+    },
+    {
+      "id": 76,
+      "question": "Fg, HORSE, EARTH and Fg, EARTH, HORSE are:",
+      "answers": [
+        { "text": "An action-reaction pair", "correct": true },
+        { "text": "Unrelated forces", "correct": false },
+        { "text": "Different types of forces", "correct": false },
+        { "text": "Not equal", "correct": false }
+      ]
+    },
+    {
+      "id": 77,
+      "question": "Normal force and gravity on the same object are:",
+      "answers": [
+        { "text": "NOT an action-reaction pair", "correct": true },
+        { "text": "An action-reaction pair", "correct": false },
+        { "text": "The same force", "correct": false },
+        { "text": "Always unequal", "correct": false }
+      ]
+    },
+    {
+      "id": 78,
+      "question": "For forces to be action-reaction pairs, they must act on:",
+      "answers": [
+        { "text": "Two different objects", "correct": true },
+        { "text": "The same object", "correct": false },
+        { "text": "Three objects", "correct": false },
+        { "text": "No specific requirement", "correct": false }
+      ]
+    },
+    {
+      "id": 79,
+      "question": "When an apple falls, Earth pulls on the apple. The apple also:",
+      "answers": [
+        { "text": "Pulls on Earth with equal force", "correct": true },
+        { "text": "Pulls on Earth with less force", "correct": false },
+        { "text": "Does not pull on Earth", "correct": false },
+        { "text": "Pushes on Earth", "correct": false }
+      ]
+    },
+    {
+      "id": 80,
+      "question": "A bird flies by pushing air downward. The air pushes the bird:",
+      "answers": [
+        { "text": "Upward", "correct": true },
+        { "text": "Downward", "correct": false },
+        { "text": "Forward", "correct": false },
+        { "text": "Not at all", "correct": false }
+      ]
+    },
+    {
+      "id": 81,
+      "question": "In a rocket launch, hot gas is expelled downward. This pushes the rocket:",
+      "answers": [
+        { "text": "Upward", "correct": true },
+        { "text": "Downward", "correct": false },
+        { "text": "Sideways", "correct": false },
+        { "text": "Not at all", "correct": false }
+      ]
+    },
+    {
+      "id": 82,
+      "question": "Action-reaction forces have _____ magnitude.",
+      "answers": [
+        { "text": "Equal", "correct": true },
+        { "text": "Different", "correct": false },
+        { "text": "Variable", "correct": false },
+        { "text": "Zero", "correct": false }
+      ]
+    },
+    {
+      "id": 83,
+      "question": "Action-reaction forces point in _____ directions.",
+      "answers": [
+        { "text": "Opposite", "correct": true },
+        { "text": "Same", "correct": false },
+        { "text": "Perpendicular", "correct": false },
+        { "text": "Random", "correct": false }
+      ]
+    },
+    {
+      "id": 84,
+      "question": "Can you have an action without a reaction?",
+      "answers": [
+        { "text": "No, they always come in pairs", "correct": true },
+        { "text": "Yes, sometimes", "correct": false },
+        { "text": "Yes, for very small forces", "correct": false },
+        { "text": "Yes, for gravity", "correct": false }
+      ]
+    },
+    {
+      "id": 85,
+      "question": "When you sit in a chair, the chair pushes up on you. You push down on the chair with:",
+      "answers": [
+        { "text": "Equal force", "correct": true },
+        { "text": "Greater force", "correct": false },
+        { "text": "Smaller force", "correct": false },
+        { "text": "No force", "correct": false }
+      ]
+    },
+    {
+      "id": 86,
+      "question": "A book rests on a table. The normal force and weight:",
+      "answers": [
+        { "text": "Are NOT action-reaction (both act on book)", "correct": true },
+        { "text": "Are action-reaction pairs", "correct": false },
+        { "text": "Are unequal", "correct": false },
+        { "text": "Don't exist", "correct": false }
+      ]
+    },
+    {
+      "id": 87,
+      "question": "The reaction to the weight of a book on a table is:",
+      "answers": [
+        { "text": "The book pulling up on Earth", "correct": true },
+        { "text": "The normal force from table", "correct": false },
+        { "text": "Friction", "correct": false },
+        { "text": "Air resistance", "correct": false }
+      ]
+    },
+    {
+      "id": 88,
+      "question": "The reaction to the normal force of table on book is:",
+      "answers": [
+        { "text": "The book pushing down on table", "correct": true },
+        { "text": "Weight of the book", "correct": false },
+        { "text": "Gravity on table", "correct": false },
+        { "text": "Friction", "correct": false }
+      ]
+    },
+    {
+      "id": 89,
+      "question": "How many force pairs exist when a horse stands on Earth?",
+      "answers": [
+        { "text": "At least 2 pairs (gravity and normal)", "correct": true },
+        { "text": "Only 1 pair", "correct": false },
+        { "text": "Zero pairs", "correct": false },
+        { "text": "Exactly 3 pairs", "correct": false }
+      ]
+    },
+    {
+      "id": 90,
+      "question": "If you push a wall with 50N, the wall pushes you with:",
+      "answers": [
+        { "text": "50N", "correct": true },
+        { "text": "25N", "correct": false },
+        { "text": "100N", "correct": false },
+        { "text": "0N", "correct": false }
+      ]
+    },
+    {
+      "id": 91,
+      "question": "Forces always come in:",
+      "answers": [
+        { "text": "Pairs", "correct": true },
+        { "text": "Singles", "correct": false },
+        { "text": "Triplets", "correct": false },
+        { "text": "Groups of four", "correct": false }
+      ]
+    },
+    {
+      "id": 92,
+      "question": "The net force on a horse-earth system from internal forces is:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Maximum", "correct": false },
+        { "text": "Equal to horse's weight", "correct": false },
+        { "text": "Infinite", "correct": false }
+      ]
+    },
+    {
+      "id": 93,
+      "question": "What allows a horse to accelerate?",
+      "answers": [
+        { "text": "External force from ground", "correct": true },
+        { "text": "Internal muscle forces", "correct": false },
+        { "text": "The cart", "correct": false },
+        { "text": "Gravity", "correct": false }
+      ]
+    },
+    {
+      "id": 94,
+      "question": "In the notation Ftype,on,from, which comes first?",
+      "answers": [
+        { "text": "Type of force", "correct": true },
+        { "text": "What it acts on", "correct": false },
+        { "text": "Where it comes from", "correct": false },
+        { "text": "Magnitude", "correct": false }
+      ]
+    },
+    {
+      "id": 95,
+      "question": "In the notation Ftype,on,from, which comes second?",
+      "answers": [
+        { "text": "What the force acts ON", "correct": true },
+        { "text": "Type of force", "correct": false },
+        { "text": "Where it comes from", "correct": false },
+        { "text": "Direction", "correct": false }
+      ]
+    },
+    {
+      "id": 96,
+      "question": "In the notation Ftype,on,from, which comes third?",
+      "answers": [
+        { "text": "Where the force comes FROM", "correct": true },
+        { "text": "Type of force", "correct": false },
+        { "text": "What it acts on", "correct": false },
+        { "text": "Magnitude", "correct": false }
+      ]
+    },
+    {
+      "id": 97,
+      "question": "Every force has a:",
+      "answers": [
+        { "text": "Reaction force", "correct": true },
+        { "text": "Duplicate", "correct": false },
+        { "text": "Opposite on same object", "correct": false },
+        { "text": "Partner on same object", "correct": false }
+      ]
+    },
+    {
+      "id": 98,
+      "question": "The total force in the universe is:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Infinite", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Positive", "correct": false }
+      ]
+    },
+    {
+      "id": 99,
+      "question": "When two objects interact, they exert forces that are:",
+      "answers": [
+        { "text": "Equal and opposite", "correct": true },
+        { "text": "Unequal and same direction", "correct": false },
+        { "text": "Equal and same direction", "correct": false },
+        { "text": "Unrelated", "correct": false }
+      ]
+    },
+    {
+      "id": 100,
+      "question": "Newton's Third Law is also known as the law of:",
+      "answers": [
+        { "text": "Action-Reaction", "correct": true },
+        { "text": "Inertia", "correct": false },
+        { "text": "Acceleration", "correct": false },
+        { "text": "Gravitation", "correct": false }
+      ]
+    }
+  ]
+}

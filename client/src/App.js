@@ -4,12 +4,10 @@ import './App.css';
 function App() {
   const [question, setQuestion] = useState(null);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const [showExplanation, setShowExplanation] = useState(false);
+  const [showResult, setShowResult] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [difficulty, setDifficulty] = useState('easy');
   const [score, setScore] = useState(0);
   const [totalQuestions, setTotalQuestions] = useState(0);
-  const [recentPerformance, setRecentPerformance] = useState([]);
   const [streak, setStreak] = useState(0);
 
   useEffect(() => {
@@ -19,15 +17,10 @@ function App() {
   const fetchQuestion = async () => {
     setLoading(true);
     setSelectedAnswer(null);
-    setShowExplanation(false);
+    setShowResult(false);
 
     try {
-      const response = await fetch('/api/generate-question', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ difficulty })
-      });
-
+      const response = await fetch('/api/question');
       const data = await response.json();
       setQuestion(data);
     } catch (error) {
@@ -39,15 +32,15 @@ function App() {
   };
 
   const handleAnswerSelect = (answer) => {
-    if (showExplanation) return;
+    if (showResult) return;
     setSelectedAnswer(answer);
   };
 
-  const handleSubmit = async () => {
+  const handleSubmit = () => {
     if (!selectedAnswer) return;
 
     const isCorrect = selectedAnswer === question.correctAnswer;
-    setShowExplanation(true);
+    setShowResult(true);
     setTotalQuestions(prev => prev + 1);
 
     if (isCorrect) {
@@ -56,48 +49,10 @@ function App() {
     } else {
       setStreak(0);
     }
-
-    // Update recent performance
-    const newPerformance = [...recentPerformance, isCorrect].slice(-5);
-    setRecentPerformance(newPerformance);
-
-    // Adjust difficulty after 5 questions
-    if (newPerformance.length === 5) {
-      try {
-        const response = await fetch('/api/adjust-difficulty', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            currentDifficulty: difficulty,
-            recentPerformance: newPerformance
-          })
-        });
-
-        const data = await response.json();
-        if (data.newDifficulty !== difficulty) {
-          setDifficulty(data.newDifficulty);
-          setTimeout(() => {
-            alert(`Difficulty adjusted to ${data.newDifficulty}! Keep it up!`);
-          }, 100);
-        }
-        setRecentPerformance([]);
-      } catch (error) {
-        console.error('Error adjusting difficulty:', error);
-      }
-    }
-  };
-
-  const getDifficultyColor = () => {
-    switch (difficulty) {
-      case 'easy': return '#4caf50';
-      case 'medium': return '#ff9800';
-      case 'hard': return '#f44336';
-      default: return '#2196f3';
-    }
   };
 
   const getOptionClass = (option) => {
-    if (!showExplanation) {
+    if (!showResult) {
       return selectedAnswer === option ? 'option selected' : 'option';
     }
 
@@ -127,9 +82,9 @@ function App() {
               <span className="stat-value">{streak} 🔥</span>
             </div>
             <div className="stat">
-              <span className="stat-label">Difficulty</span>
-              <span className="stat-value" style={{ color: getDifficultyColor() }}>
-                {difficulty.toUpperCase()}
+              <span className="stat-label">Accuracy</span>
+              <span className="stat-value">
+                {totalQuestions > 0 ? Math.round((score / totalQuestions) * 100) : 0}%
               </span>
             </div>
           </div>
@@ -154,7 +109,7 @@ function App() {
                   key={key}
                   className={getOptionClass(key)}
                   onClick={() => handleAnswerSelect(key)}
-                  disabled={showExplanation}
+                  disabled={showResult}
                 >
                   <span className="option-letter">{key}</span>
                   <span className="option-text">{value}</span>
@@ -162,17 +117,21 @@ function App() {
               ))}
             </div>
 
-            {showExplanation && (
+            {showResult && (
               <div className={`explanation ${selectedAnswer === question.correctAnswer ? 'correct-bg' : 'incorrect-bg'}`}>
                 <h3>
                   {selectedAnswer === question.correctAnswer ? '✅ Correct!' : '❌ Incorrect'}
                 </h3>
-                <p><strong>Explanation:</strong> {question.explanation}</p>
+                <p>
+                  {selectedAnswer === question.correctAnswer
+                    ? 'Great job! You got it right!'
+                    : `The correct answer is ${question.correctAnswer}.`}
+                </p>
               </div>
             )}
 
             <div className="button-group">
-              {!showExplanation ? (
+              {!showResult ? (
                 <button
                   className="submit-btn"
                   onClick={handleSubmit}
@@ -195,7 +154,7 @@ function App() {
         )}
 
         <footer className="footer">
-          <p>Based on Newton's Laws educational material</p>
+          <p>Based on Newton's Laws educational material • 300 Questions</p>
         </footer>
       </div>
     </div>

@@ -1,0 +1,1005 @@
+{
+  "topic": "Newton's Second Law",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is an unbalanced force also called?",
+      "answers": [
+        { "text": "NET force", "correct": true },
+        { "text": "Balanced force", "correct": false },
+        { "text": "Gravity force", "correct": false },
+        { "text": "Applied force", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the symbol Σ (sigma) mean in physics?",
+      "answers": [
+        { "text": "To sum or add up", "correct": true },
+        { "text": "To multiply", "correct": false },
+        { "text": "To divide", "correct": false },
+        { "text": "To subtract", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to Newton's Second Law, acceleration is proportional to what?",
+      "answers": [
+        { "text": "The net force applied to the object", "correct": true },
+        { "text": "The object's velocity", "correct": false },
+        { "text": "The object's position", "correct": false },
+        { "text": "The object's temperature", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to Newton's Second Law, acceleration is inversely proportional to what?",
+      "answers": [
+        { "text": "The object's mass", "correct": true },
+        { "text": "The net force", "correct": false },
+        { "text": "The object's speed", "correct": false },
+        { "text": "The object's weight", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does FBD stand for in physics?",
+      "answers": [
+        { "text": "Free-Body Diagram", "correct": true },
+        { "text": "Force Balance Diagram", "correct": false },
+        { "text": "Friction Body Diagram", "correct": false },
+        { "text": "Full Body Drawing", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is a Free-Body Diagram?",
+      "answers": [
+        { "text": "A vector drawing of all external forces acting on an object", "correct": true },
+        { "text": "A picture of the object's motion", "correct": false },
+        { "text": "A graph of velocity over time", "correct": false },
+        { "text": "A diagram showing internal forces", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In a Free-Body Diagram, force vectors are drawn from where?",
+      "answers": [
+        { "text": "The center of the object", "correct": true },
+        { "text": "The edge of the object", "correct": false },
+        { "text": "Outside the object", "correct": false },
+        { "text": "Above the object", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does Fg represent in physics?",
+      "answers": [
+        { "text": "Force of Gravity", "correct": true },
+        { "text": "Force of Friction", "correct": false },
+        { "text": "Force of Thrust", "correct": false },
+        { "text": "Force of Lift", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does FT or FThrust represent?",
+      "answers": [
+        { "text": "Force of thrust", "correct": true },
+        { "text": "Force of gravity", "correct": false },
+        { "text": "Force of tension", "correct": false },
+        { "text": "Force of friction", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does Fdrag represent?",
+      "answers": [
+        { "text": "Frictional force that opposes motion (air resistance)", "correct": true },
+        { "text": "Force that pulls objects down", "correct": false },
+        { "text": "Force that lifts objects up", "correct": false },
+        { "text": "Force that pushes objects forward", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "For a jet plane gliding at constant velocity with NO air resistance, are the forces balanced or unbalanced along the x-axis?",
+      "answers": [
+        { "text": "Balanced", "correct": true },
+        { "text": "Unbalanced", "correct": false },
+        { "text": "There are no forces", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "For a jet plane gliding at constant velocity with NO air resistance, are the forces balanced or unbalanced along the y-axis?",
+      "answers": [
+        { "text": "Balanced", "correct": true },
+        { "text": "Unbalanced", "correct": false },
+        { "text": "There are no forces", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "For a plane at constant velocity, which Newton's Law applies?",
+      "answers": [
+        { "text": "Newton's 1st Law", "correct": true },
+        { "text": "Newton's 2nd Law", "correct": false },
+        { "text": "Newton's 3rd Law", "correct": false },
+        { "text": "All three laws", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "For a jet plane flying at constant elevation with INCREASING velocity, are the forces balanced or unbalanced along the x-axis?",
+      "answers": [
+        { "text": "Unbalanced", "correct": true },
+        { "text": "Balanced", "correct": false },
+        { "text": "There are no forces", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "For a jet plane flying at constant elevation with INCREASING velocity, which Newton's Law applies to the x-axis?",
+      "answers": [
+        { "text": "Newton's 2nd Law", "correct": true },
+        { "text": "Newton's 1st Law", "correct": false },
+        { "text": "Newton's 3rd Law", "correct": false },
+        { "text": "None of them", "correct": false }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "For a jet plane flying at constant elevation with DECREASING velocity, are the forces balanced or unbalanced along the x-axis?",
+      "answers": [
+        { "text": "Unbalanced", "correct": true },
+        { "text": "Balanced", "correct": false },
+        { "text": "There are no forces", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What is the relationship between net force and acceleration?",
+      "answers": [
+        { "text": "They are in the same direction", "correct": true },
+        { "text": "They are in opposite directions", "correct": false },
+        { "text": "They are perpendicular", "correct": false },
+        { "text": "There is no relationship", "correct": false }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What is required to change an object's motion?",
+      "answers": [
+        { "text": "An unbalanced force", "correct": true },
+        { "text": "A balanced force", "correct": false },
+        { "text": "No force", "correct": false },
+        { "text": "Only gravity", "correct": false }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What is the equation for Newton's Second Law?",
+      "answers": [
+        { "text": "ΣF = ma", "correct": true },
+        { "text": "F = mv", "correct": false },
+        { "text": "F = md", "correct": false },
+        { "text": "F = m/a", "correct": false }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "In Newton's Second Law (F=ma), what does 'm' represent?",
+      "answers": [
+        { "text": "Mass", "correct": true },
+        { "text": "Motion", "correct": false },
+        { "text": "Momentum", "correct": false },
+        { "text": "Magnitude", "correct": false }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "In Newton's Second Law (F=ma), what does 'a' represent?",
+      "answers": [
+        { "text": "Acceleration", "correct": true },
+        { "text": "Area", "correct": false },
+        { "text": "Amplitude", "correct": false },
+        { "text": "Angle", "correct": false }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "If the net force on an object is zero, what is its acceleration?",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Positive", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "If an object is experiencing constant velocity, what is the net force?",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Greater than zero", "correct": false },
+        { "text": "Less than zero", "correct": false },
+        { "text": "Equal to mass", "correct": false }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "What type of forces does a Free-Body Diagram show?",
+      "answers": [
+        { "text": "External forces only", "correct": true },
+        { "text": "Internal forces only", "correct": false },
+        { "text": "Both internal and external forces", "correct": false },
+        { "text": "Neither internal nor external forces", "correct": false }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Force vectors in a Free-Body Diagram point in which direction?",
+      "answers": [
+        { "text": "Away from the object", "correct": true },
+        { "text": "Toward the object", "correct": false },
+        { "text": "Always upward", "correct": false },
+        { "text": "Always downward", "correct": false }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "What must each force vector in a Free-Body Diagram include?",
+      "answers": [
+        { "text": "Magnitude and direction", "correct": true },
+        { "text": "Only magnitude", "correct": false },
+        { "text": "Only direction", "correct": false },
+        { "text": "Only the label", "correct": false }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "What does FL or FLift represent?",
+      "answers": [
+        { "text": "Force of lift", "correct": true },
+        { "text": "Force of load", "correct": false },
+        { "text": "Force of friction", "correct": false },
+        { "text": "Force level", "correct": false }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "If a plane is flying at constant elevation and constant velocity with air resistance, what can you say about thrust and drag?",
+      "answers": [
+        { "text": "They are equal in magnitude", "correct": true },
+        { "text": "Thrust is greater", "correct": false },
+        { "text": "Drag is greater", "correct": false },
+        { "text": "They are unrelated", "correct": false }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "If a plane is flying at constant elevation and constant velocity, what can you say about lift and gravity?",
+      "answers": [
+        { "text": "They are equal in magnitude", "correct": true },
+        { "text": "Lift is greater", "correct": false },
+        { "text": "Gravity is greater", "correct": false },
+        { "text": "They are unrelated", "correct": false }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "What does 'W' represent in Free-Body Diagrams?",
+      "answers": [
+        { "text": "Weight (Force of Gravity)", "correct": true },
+        { "text": "Work", "correct": false },
+        { "text": "Width", "correct": false },
+        { "text": "Wavelength", "correct": false }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "If the mass of an object doubles but the net force stays the same, what happens to acceleration?",
+      "answers": [
+        { "text": "It is cut in half", "correct": true },
+        { "text": "It doubles", "correct": false },
+        { "text": "It stays the same", "correct": false },
+        { "text": "It quadruples", "correct": false }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "If the net force on an object doubles but mass stays the same, what happens to acceleration?",
+      "answers": [
+        { "text": "It doubles", "correct": true },
+        { "text": "It is cut in half", "correct": false },
+        { "text": "It stays the same", "correct": false },
+        { "text": "It quadruples", "correct": false }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Forces are examples of what type of quantity?",
+      "answers": [
+        { "text": "Vectors", "correct": true },
+        { "text": "Scalars", "correct": false },
+        { "text": "Constants", "correct": false },
+        { "text": "Variables", "correct": false }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "What is needed to fully describe a force?",
+      "answers": [
+        { "text": "Magnitude and direction", "correct": true },
+        { "text": "Only magnitude", "correct": false },
+        { "text": "Only direction", "correct": false },
+        { "text": "Only the type of force", "correct": false }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "For a plane with increasing velocity, is thrust or drag greater?",
+      "answers": [
+        { "text": "Thrust is greater", "correct": true },
+        { "text": "Drag is greater", "correct": false },
+        { "text": "They are equal", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "For a plane with decreasing velocity, is thrust or drag greater?",
+      "answers": [
+        { "text": "Drag is greater", "correct": true },
+        { "text": "Thrust is greater", "correct": false },
+        { "text": "They are equal", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "What does ΣF represent?",
+      "answers": [
+        { "text": "Sum of all forces (Net force)", "correct": true },
+        { "text": "Average force", "correct": false },
+        { "text": "Maximum force", "correct": false },
+        { "text": "Final force", "correct": false }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "An object experiencing an unbalanced force will have what type of motion?",
+      "answers": [
+        { "text": "Accelerated motion", "correct": true },
+        { "text": "Constant velocity", "correct": false },
+        { "text": "No motion", "correct": false },
+        { "text": "Circular motion only", "correct": false }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "What is required to explain constant velocity?",
+      "answers": [
+        { "text": "No net force", "correct": true },
+        { "text": "A large net force", "correct": false },
+        { "text": "An unbalanced force", "correct": false },
+        { "text": "Friction only", "correct": false }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "In the equation F=ma, if F is measured in Newtons and m in kg, what are the units of a?",
+      "answers": [
+        { "text": "m/s²", "correct": true },
+        { "text": "m/s", "correct": false },
+        { "text": "kg⋅m/s", "correct": false },
+        { "text": "N/kg", "correct": false }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "For constant velocity motion, which law do we apply?",
+      "answers": [
+        { "text": "Newton's 1st Law", "correct": true },
+        { "text": "Newton's 2nd Law", "correct": false },
+        { "text": "Newton's 3rd Law", "correct": false },
+        { "text": "Law of Conservation of Energy", "correct": false }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "For accelerated motion, which law do we apply?",
+      "answers": [
+        { "text": "Newton's 2nd Law", "correct": true },
+        { "text": "Newton's 1st Law", "correct": false },
+        { "text": "Newton's 3rd Law", "correct": false },
+        { "text": "Law of Conservation of Momentum", "correct": false }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "If net force and acceleration point in the same direction, what law is this?",
+      "answers": [
+        { "text": "Newton's 2nd Law", "correct": true },
+        { "text": "Newton's 1st Law", "correct": false },
+        { "text": "Newton's 3rd Law", "correct": false },
+        { "text": "Hooke's Law", "correct": false }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Air resistance is an example of what type of force?",
+      "answers": [
+        { "text": "Drag force (friction)", "correct": true },
+        { "text": "Lift force", "correct": false },
+        { "text": "Thrust force", "correct": false },
+        { "text": "Gravity", "correct": false }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "What direction does the force of gravity always point?",
+      "answers": [
+        { "text": "Downward (toward Earth's center)", "correct": true },
+        { "text": "Upward", "correct": false },
+        { "text": "Horizontal", "correct": false },
+        { "text": "It varies", "correct": false }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "For a plane at constant elevation with increasing velocity, are forces balanced on the y-axis?",
+      "answers": [
+        { "text": "Yes, balanced", "correct": true },
+        { "text": "No, unbalanced", "correct": false },
+        { "text": "There are no y-axis forces", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "The net force is the _____ of all forces.",
+      "answers": [
+        { "text": "Sum", "correct": true },
+        { "text": "Product", "correct": false },
+        { "text": "Quotient", "correct": false },
+        { "text": "Difference", "correct": false }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "What type of diagram helps us visualize all forces on an object?",
+      "answers": [
+        { "text": "Free-Body Diagram", "correct": true },
+        { "text": "Motion diagram", "correct": false },
+        { "text": "Energy diagram", "correct": false },
+        { "text": "Circuit diagram", "correct": false }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "In a Free-Body Diagram, what information must be labeled for each force?",
+      "answers": [
+        { "text": "The type of force", "correct": true },
+        { "text": "The color of the arrow", "correct": false },
+        { "text": "The time it was applied", "correct": false },
+        { "text": "The temperature", "correct": false }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "If acceleration is zero, what can you conclude about the net force?",
+      "answers": [
+        { "text": "Net force is zero", "correct": true },
+        { "text": "Net force is maximum", "correct": false },
+        { "text": "Net force is constant but not zero", "correct": false },
+        { "text": "Net force is increasing", "correct": false }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Newton's Second Law states that acceleration is _____ proportional to net force.",
+      "answers": [
+        { "text": "Directly", "correct": true },
+        { "text": "Inversely", "correct": false },
+        { "text": "Not", "correct": false },
+        { "text": "Exponentially", "correct": false }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Newton's Second Law states that acceleration is _____ proportional to mass.",
+      "answers": [
+        { "text": "Inversely", "correct": true },
+        { "text": "Directly", "correct": false },
+        { "text": "Not", "correct": false },
+        { "text": "Exponentially", "correct": false }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "What Greek letter represents sum in physics?",
+      "answers": [
+        { "text": "Σ (Sigma)", "correct": true },
+        { "text": "Δ (Delta)", "correct": false },
+        { "text": "α (Alpha)", "correct": false },
+        { "text": "π (Pi)", "correct": false }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "For a gliding plane with NO engine thrust, what happens to its horizontal velocity?",
+      "answers": [
+        { "text": "It remains constant (no air resistance)", "correct": true },
+        { "text": "It increases", "correct": false },
+        { "text": "It decreases", "correct": false },
+        { "text": "It becomes zero", "correct": false }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "The symbol 'α' in physics means:",
+      "answers": [
+        { "text": "Proportional to", "correct": true },
+        { "text": "Equal to", "correct": false },
+        { "text": "Greater than", "correct": false },
+        { "text": "Less than", "correct": false }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "What happens to acceleration if you triple the net force on an object?",
+      "answers": [
+        { "text": "Acceleration triples", "correct": true },
+        { "text": "Acceleration is cut to one-third", "correct": false },
+        { "text": "Acceleration stays the same", "correct": false },
+        { "text": "Acceleration doubles", "correct": false }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "What happens to acceleration if you triple the mass of an object while keeping force constant?",
+      "answers": [
+        { "text": "Acceleration is cut to one-third", "correct": true },
+        { "text": "Acceleration triples", "correct": false },
+        { "text": "Acceleration stays the same", "correct": false },
+        { "text": "Acceleration doubles", "correct": false }
+      ]
+    },
+    {
+      "id": 58,
+      "question": "On a Free-Body Diagram, where should force vectors originate?",
+      "answers": [
+        { "text": "From the center of the object", "correct": true },
+        { "text": "From the top of the object", "correct": false },
+        { "text": "From outside the object", "correct": false },
+        { "text": "From the bottom of the object", "correct": false }
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Thrust on a plane acts in which direction?",
+      "answers": [
+        { "text": "Forward (horizontal)", "correct": true },
+        { "text": "Downward", "correct": false },
+        { "text": "Upward", "correct": false },
+        { "text": "Backward", "correct": false }
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Lift on a plane acts in which direction?",
+      "answers": [
+        { "text": "Upward", "correct": true },
+        { "text": "Downward", "correct": false },
+        { "text": "Forward", "correct": false },
+        { "text": "Backward", "correct": false }
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Drag on a plane acts in which direction?",
+      "answers": [
+        { "text": "Backward (opposes motion)", "correct": true },
+        { "text": "Forward", "correct": false },
+        { "text": "Upward", "correct": false },
+        { "text": "Downward", "correct": false }
+      ]
+    },
+    {
+      "id": 62,
+      "question": "For an object in equilibrium, the net force is:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Maximum", "correct": false },
+        { "text": "Constant but not zero", "correct": false },
+        { "text": "Negative", "correct": false }
+      ]
+    },
+    {
+      "id": 63,
+      "question": "If a plane is maintaining constant elevation, what must be true?",
+      "answers": [
+        { "text": "Lift equals weight (gravity)", "correct": true },
+        { "text": "Lift is greater than weight", "correct": false },
+        { "text": "Weight is greater than lift", "correct": false },
+        { "text": "Thrust equals drag", "correct": false }
+      ]
+    },
+    {
+      "id": 64,
+      "question": "The equation a = F/m shows that acceleration is:",
+      "answers": [
+        { "text": "Inversely proportional to mass", "correct": true },
+        { "text": "Directly proportional to mass", "correct": false },
+        { "text": "Independent of mass", "correct": false },
+        { "text": "Equal to mass", "correct": false }
+      ]
+    },
+    {
+      "id": 65,
+      "question": "The equation a = F/m shows that acceleration is:",
+      "answers": [
+        { "text": "Directly proportional to force", "correct": true },
+        { "text": "Inversely proportional to force", "correct": false },
+        { "text": "Independent of force", "correct": false },
+        { "text": "Equal to force", "correct": false }
+      ]
+    },
+    {
+      "id": 66,
+      "question": "When drawing a Free-Body Diagram, which forces should you include?",
+      "answers": [
+        { "text": "Only external forces", "correct": true },
+        { "text": "Only internal forces", "correct": false },
+        { "text": "Both internal and external", "correct": false },
+        { "text": "No forces", "correct": false }
+      ]
+    },
+    {
+      "id": 67,
+      "question": "What does the direction of a force vector indicate?",
+      "answers": [
+        { "text": "The direction of the force's effect on the object", "correct": true },
+        { "text": "The direction the object is moving", "correct": false },
+        { "text": "The direction of gravity", "correct": false },
+        { "text": "The direction of friction", "correct": false }
+      ]
+    },
+    {
+      "id": 68,
+      "question": "If net force points to the right, which direction does acceleration point?",
+      "answers": [
+        { "text": "To the right", "correct": true },
+        { "text": "To the left", "correct": false },
+        { "text": "Upward", "correct": false },
+        { "text": "Downward", "correct": false }
+      ]
+    },
+    {
+      "id": 69,
+      "question": "An unbalanced force will cause an object to:",
+      "answers": [
+        { "text": "Accelerate", "correct": true },
+        { "text": "Move at constant velocity", "correct": false },
+        { "text": "Remain at rest", "correct": false },
+        { "text": "Disappear", "correct": false }
+      ]
+    },
+    {
+      "id": 70,
+      "question": "A balanced force will cause an object to:",
+      "answers": [
+        { "text": "Maintain constant velocity", "correct": true },
+        { "text": "Accelerate", "correct": false },
+        { "text": "Decelerate", "correct": false },
+        { "text": "Change direction", "correct": false }
+      ]
+    },
+    {
+      "id": 71,
+      "question": "In ΣF = ma, what does the Σ indicate?",
+      "answers": [
+        { "text": "Sum of all forces", "correct": true },
+        { "text": "Maximum force", "correct": false },
+        { "text": "Average force", "correct": false },
+        { "text": "Final force", "correct": false }
+      ]
+    },
+    {
+      "id": 72,
+      "question": "What is another name for NET force?",
+      "answers": [
+        { "text": "Unbalanced force", "correct": true },
+        { "text": "Balanced force", "correct": false },
+        { "text": "Applied force", "correct": false },
+        { "text": "Normal force", "correct": false }
+      ]
+    },
+    {
+      "id": 73,
+      "question": "Free-Body Diagrams are used to:",
+      "answers": [
+        { "text": "Visualize all forces acting on an object", "correct": true },
+        { "text": "Show the object's path", "correct": false },
+        { "text": "Calculate velocity", "correct": false },
+        { "text": "Measure temperature", "correct": false }
+      ]
+    },
+    {
+      "id": 74,
+      "question": "According to Newton's 2nd Law, larger mass means:",
+      "answers": [
+        { "text": "Smaller acceleration for the same force", "correct": true },
+        { "text": "Larger acceleration for the same force", "correct": false },
+        { "text": "No change in acceleration", "correct": false },
+        { "text": "Zero acceleration", "correct": false }
+      ]
+    },
+    {
+      "id": 75,
+      "question": "According to Newton's 2nd Law, larger force means:",
+      "answers": [
+        { "text": "Larger acceleration for the same mass", "correct": true },
+        { "text": "Smaller acceleration for the same mass", "correct": false },
+        { "text": "No change in acceleration", "correct": false },
+        { "text": "Zero acceleration", "correct": false }
+      ]
+    },
+    {
+      "id": 76,
+      "question": "When a plane flies at constant velocity, the net force is:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Equal to thrust", "correct": false },
+        { "text": "Equal to drag", "correct": false },
+        { "text": "Maximum", "correct": false }
+      ]
+    },
+    {
+      "id": 77,
+      "question": "When a plane accelerates forward, which is greater?",
+      "answers": [
+        { "text": "Thrust is greater than drag", "correct": true },
+        { "text": "Drag is greater than thrust", "correct": false },
+        { "text": "They are equal", "correct": false },
+        { "text": "Lift is greater than weight", "correct": false }
+      ]
+    },
+    {
+      "id": 78,
+      "question": "What does the length of a force vector represent?",
+      "answers": [
+        { "text": "The magnitude of the force", "correct": true },
+        { "text": "The time the force acts", "correct": false },
+        { "text": "The distance traveled", "correct": false },
+        { "text": "The mass of the object", "correct": false }
+      ]
+    },
+    {
+      "id": 79,
+      "question": "Weight is another name for:",
+      "answers": [
+        { "text": "Force of gravity", "correct": true },
+        { "text": "Mass", "correct": false },
+        { "text": "Normal force", "correct": false },
+        { "text": "Friction", "correct": false }
+      ]
+    },
+    {
+      "id": 80,
+      "question": "If an object has zero acceleration, the forces are:",
+      "answers": [
+        { "text": "Balanced", "correct": true },
+        { "text": "Unbalanced", "correct": false },
+        { "text": "Zero", "correct": false },
+        { "text": "Maximum", "correct": false }
+      ]
+    },
+    {
+      "id": 81,
+      "question": "To find net force, you must:",
+      "answers": [
+        { "text": "Add all forces vectorially", "correct": true },
+        { "text": "Multiply all forces", "correct": false },
+        { "text": "Divide all forces", "correct": false },
+        { "text": "Subtract all forces", "correct": false }
+      ]
+    },
+    {
+      "id": 82,
+      "question": "The proportionality symbol is:",
+      "answers": [
+        { "text": "α", "correct": true },
+        { "text": "Σ", "correct": false },
+        { "text": "Δ", "correct": false },
+        { "text": "π", "correct": false }
+      ]
+    },
+    {
+      "id": 83,
+      "question": "Constant velocity means:",
+      "answers": [
+        { "text": "Zero acceleration", "correct": true },
+        { "text": "Maximum acceleration", "correct": false },
+        { "text": "Positive acceleration", "correct": false },
+        { "text": "Negative acceleration", "correct": false }
+      ]
+    },
+    {
+      "id": 84,
+      "question": "If thrust equals drag and lift equals weight, the plane is:",
+      "answers": [
+        { "text": "Flying at constant velocity", "correct": true },
+        { "text": "Accelerating", "correct": false },
+        { "text": "Decelerating", "correct": false },
+        { "text": "Falling", "correct": false }
+      ]
+    },
+    {
+      "id": 85,
+      "question": "External forces in a Free-Body Diagram come from:",
+      "answers": [
+        { "text": "Outside the object", "correct": true },
+        { "text": "Inside the object", "correct": false },
+        { "text": "The object's center", "correct": false },
+        { "text": "The observer", "correct": false }
+      ]
+    },
+    {
+      "id": 86,
+      "question": "The main equation for Newton's Second Law is:",
+      "answers": [
+        { "text": "F = ma", "correct": true },
+        { "text": "E = mc²", "correct": false },
+        { "text": "v = d/t", "correct": false },
+        { "text": "p = mv", "correct": false }
+      ]
+    },
+    {
+      "id": 87,
+      "question": "If mass increases and force stays constant, acceleration:",
+      "answers": [
+        { "text": "Decreases", "correct": true },
+        { "text": "Increases", "correct": false },
+        { "text": "Stays the same", "correct": false },
+        { "text": "Becomes zero", "correct": false }
+      ]
+    },
+    {
+      "id": 88,
+      "question": "If force increases and mass stays constant, acceleration:",
+      "answers": [
+        { "text": "Increases", "correct": true },
+        { "text": "Decreases", "correct": false },
+        { "text": "Stays the same", "correct": false },
+        { "text": "Becomes zero", "correct": false }
+      ]
+    },
+    {
+      "id": 89,
+      "question": "Drag force acts in which direction relative to motion?",
+      "answers": [
+        { "text": "Opposite to motion", "correct": true },
+        { "text": "Same direction as motion", "correct": false },
+        { "text": "Perpendicular to motion", "correct": false },
+        { "text": "No specific direction", "correct": false }
+      ]
+    },
+    {
+      "id": 90,
+      "question": "What is needed to change an object's velocity?",
+      "answers": [
+        { "text": "A net force", "correct": true },
+        { "text": "No force", "correct": false },
+        { "text": "Balanced forces", "correct": false },
+        { "text": "Temperature change", "correct": false }
+      ]
+    },
+    {
+      "id": 91,
+      "question": "For constant elevation flight, the vertical net force is:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Equal to lift", "correct": false },
+        { "text": "Equal to weight", "correct": false },
+        { "text": "Maximum", "correct": false }
+      ]
+    },
+    {
+      "id": 92,
+      "question": "Force vectors must always be labeled with:",
+      "answers": [
+        { "text": "The type of force they represent", "correct": true },
+        { "text": "The color of the arrow", "correct": false },
+        { "text": "The date", "correct": false },
+        { "text": "The object's name", "correct": false }
+      ]
+    },
+    {
+      "id": 93,
+      "question": "Sum of forces is represented by:",
+      "answers": [
+        { "text": "ΣF", "correct": true },
+        { "text": "ΔF", "correct": false },
+        { "text": "αF", "correct": false },
+        { "text": "πF", "correct": false }
+      ]
+    },
+    {
+      "id": 94,
+      "question": "An object at rest has what net force?",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Maximum", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Positive", "correct": false }
+      ]
+    },
+    {
+      "id": 95,
+      "question": "Acceleration and net force always point in:",
+      "answers": [
+        { "text": "The same direction", "correct": true },
+        { "text": "Opposite directions", "correct": false },
+        { "text": "Perpendicular directions", "correct": false },
+        { "text": "Random directions", "correct": false }
+      ]
+    },
+    {
+      "id": 96,
+      "question": "A plane slowing down has net force pointing:",
+      "answers": [
+        { "text": "Backward", "correct": true },
+        { "text": "Forward", "correct": false },
+        { "text": "Upward", "correct": false },
+        { "text": "Downward", "correct": false }
+      ]
+    },
+    {
+      "id": 97,
+      "question": "A plane speeding up has net force pointing:",
+      "answers": [
+        { "text": "Forward", "correct": true },
+        { "text": "Backward", "correct": false },
+        { "text": "Upward", "correct": false },
+        { "text": "Downward", "correct": false }
+      ]
+    },
+    {
+      "id": 98,
+      "question": "Which law explains why objects need force to change velocity?",
+      "answers": [
+        { "text": "Newton's Second Law", "correct": true },
+        { "text": "Newton's First Law", "correct": false },
+        { "text": "Newton's Third Law", "correct": false },
+        { "text": "Law of Gravitation", "correct": false }
+      ]
+    },
+    {
+      "id": 99,
+      "question": "The word 'unbalanced' in physics means:",
+      "answers": [
+        { "text": "Net force is not zero", "correct": true },
+        { "text": "Net force is zero", "correct": false },
+        { "text": "Forces are equal", "correct": false },
+        { "text": "Object is falling", "correct": false }
+      ]
+    },
+    {
+      "id": 100,
+      "question": "The word 'balanced' in physics means:",
+      "answers": [
+        { "text": "Net force is zero", "correct": true },
+        { "text": "Net force is maximum", "correct": false },
+        { "text": "Object is accelerating", "correct": false },
+        { "text": "Forces are unequal", "correct": false }
+      ]
+    }
+  ]
+}

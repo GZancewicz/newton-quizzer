@@ -1,0 +1,1005 @@
+{
+  "topic": "Newton's First Law",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Newton's First Law of Motion?",
+      "answers": [
+        { "text": "An object will remain in a state of constant motion unless acted upon by an unbalanced force", "correct": true },
+        { "text": "F = ma", "correct": false },
+        { "text": "For every action there is an equal and opposite reaction", "correct": false },
+        { "text": "Energy cannot be created or destroyed", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is another name for Newton's First Law?",
+      "answers": [
+        { "text": "Law of Inertia", "correct": true },
+        { "text": "Law of Acceleration", "correct": false },
+        { "text": "Law of Action-Reaction", "correct": false },
+        { "text": "Law of Gravitation", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is inertia?",
+      "answers": [
+        { "text": "A measure of an object's resistance to change", "correct": true },
+        { "text": "The speed of an object", "correct": false },
+        { "text": "The force on an object", "correct": false },
+        { "text": "The weight of an object", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Mass is a measure of:",
+      "answers": [
+        { "text": "An object's resistance to change", "correct": true },
+        { "text": "An object's speed", "correct": false },
+        { "text": "An object's volume", "correct": false },
+        { "text": "An object's temperature", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Is a tower of coins sitting on a table moving relative to the table?",
+      "answers": [
+        { "text": "No", "correct": true },
+        { "text": "Yes", "correct": false },
+        { "text": "Sometimes", "correct": false },
+        { "text": "Only if pushed", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Is a tower of coins sitting on Earth moving relative to the Earth?",
+      "answers": [
+        { "text": "No (ignoring Earth's rotation)", "correct": true },
+        { "text": "Yes, always", "correct": false },
+        { "text": "Only at night", "correct": false },
+        { "text": "Only during day", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Is a tower of coins on Earth moving relative to the Sun?",
+      "answers": [
+        { "text": "Yes, Earth orbits the Sun", "correct": true },
+        { "text": "No, it's stationary", "correct": false },
+        { "text": "Only in summer", "correct": false },
+        { "text": "Only in winter", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Motion is relative to:",
+      "answers": [
+        { "text": "The frame of reference", "correct": true },
+        { "text": "Nothing - it's absolute", "correct": false },
+        { "text": "The observer's age", "correct": false },
+        { "text": "The time of day", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is required to change the motion of an object?",
+      "answers": [
+        { "text": "An unbalanced force", "correct": true },
+        { "text": "A balanced force", "correct": false },
+        { "text": "No force", "correct": false },
+        { "text": "Time only", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Are there any unbalanced forces acting on a stationary tower of coins?",
+      "answers": [
+        { "text": "No", "correct": true },
+        { "text": "Yes", "correct": false },
+        { "text": "Sometimes", "correct": false },
+        { "text": "Only gravity", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What type of motion occurs if there are no unbalanced forces acting on an object?",
+      "answers": [
+        { "text": "Constant motion (constant velocity or at rest)", "correct": true },
+        { "text": "Accelerated motion", "correct": false },
+        { "text": "Circular motion", "correct": false },
+        { "text": "Random motion", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "When you hit the bottom coin of a tower with a ruler, what happens?",
+      "answers": [
+        { "text": "Bottom coin moves, rest of tower stays due to inertia", "correct": true },
+        { "text": "Entire tower moves together", "correct": false },
+        { "text": "Nothing happens", "correct": false },
+        { "text": "Tower floats", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Why does the rest of the tower stay in place when you hit the bottom coin?",
+      "answers": [
+        { "text": "Inertia - tendency to resist change in motion", "correct": true },
+        { "text": "Gravity pulls it down", "correct": false },
+        { "text": "Air resistance", "correct": false },
+        { "text": "Friction with air", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Constant velocity means:",
+      "answers": [
+        { "text": "No acceleration", "correct": true },
+        { "text": "Increasing speed", "correct": false },
+        { "text": "Decreasing speed", "correct": false },
+        { "text": "Changing direction", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "An object at rest is a special case of:",
+      "answers": [
+        { "text": "Constant velocity (v = 0)", "correct": true },
+        { "text": "Acceleration", "correct": false },
+        { "text": "Maximum velocity", "correct": false },
+        { "text": "Changing motion", "correct": false }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "If no unbalanced force acts on an object at rest, it will:",
+      "answers": [
+        { "text": "Remain at rest", "correct": true },
+        { "text": "Start moving", "correct": false },
+        { "text": "Accelerate", "correct": false },
+        { "text": "Disappear", "correct": false }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "If no unbalanced force acts on a moving object, it will:",
+      "answers": [
+        { "text": "Continue moving at constant velocity", "correct": true },
+        { "text": "Slow down and stop", "correct": false },
+        { "text": "Speed up", "correct": false },
+        { "text": "Change direction", "correct": false }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What does 'constant motion' mean?",
+      "answers": [
+        { "text": "Constant velocity (including being at rest)", "correct": true },
+        { "text": "Accelerating", "correct": false },
+        { "text": "Changing speed", "correct": false },
+        { "text": "Circular path", "correct": false }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Newton's First Law applies when:",
+      "answers": [
+        { "text": "Forces are balanced (net force = 0)", "correct": true },
+        { "text": "Forces are unbalanced", "correct": false },
+        { "text": "Object is accelerating", "correct": false },
+        { "text": "Only when at rest", "correct": false }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "What is a frame of reference?",
+      "answers": [
+        { "text": "A perspective from which motion is observed", "correct": true },
+        { "text": "A type of force", "correct": false },
+        { "text": "A measurement tool", "correct": false },
+        { "text": "A unit of time", "correct": false }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Can an object be moving and at rest at the same time?",
+      "answers": [
+        { "text": "Yes, depending on frame of reference", "correct": true },
+        { "text": "No, never", "correct": false },
+        { "text": "Only in space", "correct": false },
+        { "text": "Only for very light objects", "correct": false }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Which has more inertia: a bowling ball or a tennis ball?",
+      "answers": [
+        { "text": "Bowling ball (greater mass)", "correct": true },
+        { "text": "Tennis ball", "correct": false },
+        { "text": "They have equal inertia", "correct": false },
+        { "text": "Depends on speed", "correct": false }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Greater mass means:",
+      "answers": [
+        { "text": "Greater resistance to change in motion", "correct": true },
+        { "text": "Less resistance to change", "correct": false },
+        { "text": "Faster acceleration", "correct": false },
+        { "text": "No effect on motion", "correct": false }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "An object will NOT change its motion unless:",
+      "answers": [
+        { "text": "An unbalanced force acts on it", "correct": true },
+        { "text": "Time passes", "correct": false },
+        { "text": "It wants to", "correct": false },
+        { "text": "The temperature changes", "correct": false }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "What does the coin tower experiment demonstrate?",
+      "answers": [
+        { "text": "Inertia - objects resist changes in motion", "correct": true },
+        { "text": "Gravity is strong", "correct": false },
+        { "text": "Coins are heavy", "correct": false },
+        { "text": "Friction is important", "correct": false }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "State of constant motion includes:",
+      "answers": [
+        { "text": "Both constant velocity and being at rest", "correct": true },
+        { "text": "Only moving objects", "correct": false },
+        { "text": "Only stationary objects", "correct": false },
+        { "text": "Only accelerating objects", "correct": false }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "According to Newton's 1st Law, natural motion is:",
+      "answers": [
+        { "text": "Constant velocity", "correct": true },
+        { "text": "Slowing down", "correct": false },
+        { "text": "Speeding up", "correct": false },
+        { "text": "Circular", "correct": false }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Force is needed to:",
+      "answers": [
+        { "text": "Change velocity", "correct": true },
+        { "text": "Maintain constant velocity", "correct": false },
+        { "text": "Keep an object at rest", "correct": false },
+        { "text": "Create mass", "correct": false }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Force is NOT needed to:",
+      "answers": [
+        { "text": "Maintain constant velocity", "correct": true },
+        { "text": "Start motion", "correct": false },
+        { "text": "Stop motion", "correct": false },
+        { "text": "Change direction", "correct": false }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "An object moving at constant velocity has what net force?",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Maximum", "correct": false },
+        { "text": "Equal to its weight", "correct": false },
+        { "text": "Increasing", "correct": false }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "An object at rest has what net force?",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Maximum", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Positive", "correct": false }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Inertia depends on:",
+      "answers": [
+        { "text": "Mass", "correct": true },
+        { "text": "Velocity", "correct": false },
+        { "text": "Acceleration", "correct": false },
+        { "text": "Time", "correct": false }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "More mass means:",
+      "answers": [
+        { "text": "More inertia", "correct": true },
+        { "text": "Less inertia", "correct": false },
+        { "text": "Same inertia", "correct": false },
+        { "text": "No inertia", "correct": false }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Why do passengers lurch forward when a car stops suddenly?",
+      "answers": [
+        { "text": "Inertia - they tend to keep moving forward", "correct": true },
+        { "text": "The car pushes them", "correct": false },
+        { "text": "Gravity pulls them", "correct": false },
+        { "text": "Air resistance", "correct": false }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Why do you feel pushed back into your seat when a car accelerates?",
+      "answers": [
+        { "text": "Inertia - your body resists the change in motion", "correct": true },
+        { "text": "The seat pulls you back", "correct": false },
+        { "text": "Air resistance", "correct": false },
+        { "text": "Gravity increases", "correct": false }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "What law explains why seatbelts are necessary?",
+      "answers": [
+        { "text": "Newton's 1st Law (Inertia)", "correct": true },
+        { "text": "Newton's 2nd Law", "correct": false },
+        { "text": "Newton's 3rd Law", "correct": false },
+        { "text": "Law of Gravitation", "correct": false }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "An object's inertia is measured by its:",
+      "answers": [
+        { "text": "Mass", "correct": true },
+        { "text": "Weight", "correct": false },
+        { "text": "Volume", "correct": false },
+        { "text": "Density", "correct": false }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "If all forces on an object are balanced, its motion is:",
+      "answers": [
+        { "text": "Constant", "correct": true },
+        { "text": "Accelerating", "correct": false },
+        { "text": "Decelerating", "correct": false },
+        { "text": "Random", "correct": false }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Balanced forces result in:",
+      "answers": [
+        { "text": "No change in velocity", "correct": true },
+        { "text": "Acceleration", "correct": false },
+        { "text": "Deceleration", "correct": false },
+        { "text": "Circular motion", "correct": false }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Which describes inertia?",
+      "answers": [
+        { "text": "Tendency to resist changes in motion", "correct": true },
+        { "text": "Tendency to speed up", "correct": false },
+        { "text": "Tendency to slow down", "correct": false },
+        { "text": "Tendency to change direction", "correct": false }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Newton's 1st Law is also called:",
+      "answers": [
+        { "text": "Law of Inertia", "correct": true },
+        { "text": "Law of Force", "correct": false },
+        { "text": "Law of Momentum", "correct": false },
+        { "text": "Law of Energy", "correct": false }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Without friction, a rolling ball would:",
+      "answers": [
+        { "text": "Roll forever at constant velocity", "correct": true },
+        { "text": "Eventually stop", "correct": false },
+        { "text": "Speed up", "correct": false },
+        { "text": "Change direction", "correct": false }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "What makes a moving ball on Earth eventually stop?",
+      "answers": [
+        { "text": "Friction (unbalanced force)", "correct": true },
+        { "text": "Inertia", "correct": false },
+        { "text": "Natural tendency to stop", "correct": false },
+        { "text": "Time", "correct": false }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "In space (no friction), a moving object would:",
+      "answers": [
+        { "text": "Continue moving at constant velocity forever", "correct": true },
+        { "text": "Eventually stop", "correct": false },
+        { "text": "Speed up", "correct": false },
+        { "text": "Fall down", "correct": false }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "An object in motion tends to:",
+      "answers": [
+        { "text": "Stay in motion at constant velocity", "correct": true },
+        { "text": "Slow down", "correct": false },
+        { "text": "Speed up", "correct": false },
+        { "text": "Stop immediately", "correct": false }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "An object at rest tends to:",
+      "answers": [
+        { "text": "Stay at rest", "correct": true },
+        { "text": "Start moving", "correct": false },
+        { "text": "Accelerate", "correct": false },
+        { "text": "Float", "correct": false }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "What is needed to overcome inertia?",
+      "answers": [
+        { "text": "An unbalanced force", "correct": true },
+        { "text": "Time", "correct": false },
+        { "text": "Heat", "correct": false },
+        { "text": "Nothing", "correct": false }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Which object has more inertia: truck or bicycle?",
+      "answers": [
+        { "text": "Truck (more mass)", "correct": true },
+        { "text": "Bicycle", "correct": false },
+        { "text": "Same inertia", "correct": false },
+        { "text": "Depends on speed", "correct": false }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Inertia is a property of:",
+      "answers": [
+        { "text": "All matter", "correct": true },
+        { "text": "Only moving objects", "correct": false },
+        { "text": "Only stationary objects", "correct": false },
+        { "text": "Only large objects", "correct": false }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Mass is measured in:",
+      "answers": [
+        { "text": "Kilograms (kg)", "correct": true },
+        { "text": "Newtons (N)", "correct": false },
+        { "text": "Meters (m)", "correct": false },
+        { "text": "Seconds (s)", "correct": false }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Resistance to change in motion is called:",
+      "answers": [
+        { "text": "Inertia", "correct": true },
+        { "text": "Momentum", "correct": false },
+        { "text": "Force", "correct": false },
+        { "text": "Energy", "correct": false }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "When forces are balanced, net force is:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Maximum", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Positive", "correct": false }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Zero net force means:",
+      "answers": [
+        { "text": "No acceleration", "correct": true },
+        { "text": "Maximum acceleration", "correct": false },
+        { "text": "Object must be at rest", "correct": false },
+        { "text": "Object must be moving", "correct": false }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Constant velocity means velocity is:",
+      "answers": [
+        { "text": "Not changing", "correct": true },
+        { "text": "Increasing", "correct": false },
+        { "text": "Decreasing", "correct": false },
+        { "text": "Zero", "correct": false }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "If velocity is constant, acceleration is:",
+      "answers": [
+        { "text": "Zero", "correct": true },
+        { "text": "Maximum", "correct": false },
+        { "text": "Negative", "correct": false },
+        { "text": "Positive", "correct": false }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Which situation demonstrates Newton's 1st Law?",
+      "answers": [
+        { "text": "A book at rest on a table", "correct": true },
+        { "text": "A falling apple", "correct": false },
+        { "text": "A car speeding up", "correct": false },
+        { "text": "A ball being thrown", "correct": false }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Which situation demonstrates Newton's 1st Law?",
+      "answers": [
+        { "text": "A car moving at constant speed in a straight line", "correct": true },
+        { "text": "A car accelerating", "correct": false },
+        { "text": "A car braking", "correct": false },
+        { "text": "A car turning", "correct": false }
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Why is it hard to push a heavy box to start it moving?",
+      "answers": [
+        { "text": "It has large inertia", "correct": true },
+        { "text": "It has no inertia", "correct": false },
+        { "text": "Gravity is stronger", "correct": false },
+        { "text": "It's moving too fast", "correct": false }
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Why is it hard to stop a heavy box once it's moving?",
+      "answers": [
+        { "text": "It has large inertia", "correct": true },
+        { "text": "It has no friction", "correct": false },
+        { "text": "Gravity pulls it", "correct": false },
+        { "text": "It weighs nothing", "correct": false }
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Galileo discovered that objects in motion:",
+      "answers": [
+        { "text": "Tend to stay in motion", "correct": true },
+        { "text": "Naturally slow down", "correct": false },
+        { "text": "Always accelerate", "correct": false },
+        { "text": "Fall at different rates", "correct": false }
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Before Newton, people thought moving objects:",
+      "answers": [
+        { "text": "Naturally came to rest", "correct": true },
+        { "text": "Moved forever", "correct": false },
+        { "text": "Sped up on their own", "correct": false },
+        { "text": "Had no inertia", "correct": false }
+      ]
+    },
+    {
+      "id": 62,
+      "question": "Newton showed that objects actually:",
+      "answers": [
+        { "text": "Maintain constant velocity unless acted upon", "correct": true },
+        { "text": "Naturally slow down", "correct": false },
+        { "text": "Naturally speed up", "correct": false },
+        { "text": "Have no tendency", "correct": false }
+      ]
+    },
+    {
+      "id": 63,
+      "question": "What stops objects on Earth from moving forever?",
+      "answers": [
+        { "text": "Friction and air resistance", "correct": true },
+        { "text": "Inertia", "correct": false },
+        { "text": "Natural tendency to stop", "correct": false },
+        { "text": "Time", "correct": false }
+      ]
+    },
+    {
+      "id": 64,
+      "question": "In ideal conditions (no friction), motion would be:",
+      "answers": [
+        { "text": "Perpetual at constant velocity", "correct": true },
+        { "text": "Temporarily", "correct": false },
+        { "text": "Accelerating", "correct": false },
+        { "text": "Impossible", "correct": false }
+      ]
+    },
+    {
+      "id": 65,
+      "question": "The coin tower experiment uses how many coins?",
+      "answers": [
+        { "text": "5 coins", "correct": true },
+        { "text": "3 coins", "correct": false },
+        { "text": "10 coins", "correct": false },
+        { "text": "2 coins", "correct": false }
+      ]
+    },
+    {
+      "id": 66,
+      "question": "In the coin experiment, what tool is used to hit the coin?",
+      "answers": [
+        { "text": "A ruler", "correct": true },
+        { "text": "A pencil", "correct": false },
+        { "text": "A book", "correct": false },
+        { "text": "A hammer", "correct": false }
+      ]
+    },
+    {
+      "id": 67,
+      "question": "The coins should be stacked to make a:",
+      "answers": [
+        { "text": "Tower", "correct": true },
+        { "text": "Circle", "correct": false },
+        { "text": "Line", "correct": false },
+        { "text": "Triangle", "correct": false }
+      ]
+    },
+    {
+      "id": 68,
+      "question": "When you hit the bottom coin quickly, you should hit it:",
+      "answers": [
+        { "text": "Horizontally", "correct": true },
+        { "text": "From above", "correct": false },
+        { "text": "From below", "correct": false },
+        { "text": "Diagonally", "correct": false }
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Motion can only be described relative to:",
+      "answers": [
+        { "text": "A reference frame", "correct": true },
+        { "text": "Nothing - it's absolute", "correct": false },
+        { "text": "The observer only", "correct": false },
+        { "text": "The Sun only", "correct": false }
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Is there such a thing as absolute rest?",
+      "answers": [
+        { "text": "No, motion is relative", "correct": true },
+        { "text": "Yes, when at absolute zero", "correct": false },
+        { "text": "Yes, on Earth's surface", "correct": false },
+        { "text": "Yes, in space", "correct": false }
+      ]
+    },
+    {
+      "id": 71,
+      "question": "A person sitting in a moving train is at rest relative to:",
+      "answers": [
+        { "text": "The train", "correct": true },
+        { "text": "The ground", "correct": false },
+        { "text": "The Sun", "correct": false },
+        { "text": "Nothing", "correct": false }
+      ]
+    },
+    {
+      "id": 72,
+      "question": "A person sitting in a moving train is moving relative to:",
+      "answers": [
+        { "text": "The ground", "correct": true },
+        { "text": "The train", "correct": false },
+        { "text": "Their seat", "correct": false },
+        { "text": "Other passengers", "correct": false }
+      ]
+    },
+    {
+      "id": 73,
+      "question": "Everything on Earth is moving relative to:",
+      "answers": [
+        { "text": "The Sun", "correct": true },
+        { "text": "The ground", "correct": false },
+        { "text": "Each other", "correct": false },
+        { "text": "Nothing", "correct": false }
+      ]
+    },
+    {
+      "id": 74,
+      "question": "Newton's 1st Law explains why objects:",
+      "answers": [
+        { "text": "Resist changes in motion", "correct": true },
+        { "text": "Accelerate when pushed", "correct": false },
+        { "text": "Exert reaction forces", "correct": false },
+        { "text": "Have weight", "correct": false }
+      ]
+    },
+    {
+      "id": 75,
+      "question": "Which has greater inertia: Earth or Moon?",
+      "answers": [
+        { "text": "Earth (more mass)", "correct": true },
+        { "text": "Moon", "correct": false },
+        { "text": "Equal", "correct": false },
+        { "text": "Cannot be determined", "correct": false }
+      ]
+    },
+    {
+      "id": 76,
+      "question": "Doubling an object's mass will:",
+      "answers": [
+        { "text": "Double its inertia", "correct": true },
+        { "text": "Cut its inertia in half", "correct": false },
+        { "text": "Not affect inertia", "correct": false },
+        { "text": "Quadruple its inertia", "correct": false }
+      ]
+    },
+    {
+      "id": 77,
+      "question": "If you're in a car that suddenly stops, you feel thrown forward because:",
+      "answers": [
+        { "text": "Your body wants to keep moving (inertia)", "correct": true },
+        { "text": "The car pushes you", "correct": false },
+        { "text": "Gravity pulls you", "correct": false },
+        { "text": "The seatbelt pushes you", "correct": false }
+      ]
+    },
+    {
+      "id": 78,
+      "question": "Headrests in cars protect against whiplash by countering:",
+      "answers": [
+        { "text": "Inertia of your head", "correct": true },
+        { "text": "Forward motion", "correct": false },
+        { "text": "Gravity", "correct": false },
+        { "text": "Air resistance", "correct": false }
+      ]
+    },
+    {
+      "id": 79,
+      "question": "When is Newton's 1st Law valid?",
+      "answers": [
+        { "text": "When net force is zero", "correct": true },
+        { "text": "When net force is maximum", "correct": false },
+        { "text": "When accelerating", "correct": false },
+        { "text": "Never", "correct": false }
+      ]
+    },
+    {
+      "id": 80,
+      "question": "A hockey puck sliding on ice demonstrates:",
+      "answers": [
+        { "text": "Inertia (slides far due to low friction)", "correct": true },
+        { "text": "Gravity", "correct": false },
+        { "text": "Action-reaction", "correct": false },
+        { "text": "Conservation of energy", "correct": false }
+      ]
+    },
+    {
+      "id": 81,
+      "question": "The tendency of objects to maintain their state of motion is called:",
+      "answers": [
+        { "text": "Inertia", "correct": true },
+        { "text": "Momentum", "correct": false },
+        { "text": "Velocity", "correct": false },
+        { "text": "Acceleration", "correct": false }
+      ]
+    },
+    {
+      "id": 82,
+      "question": "What keeps a satellite orbiting Earth?",
+      "answers": [
+        { "text": "Inertia (tangential) and gravity (centripetal)", "correct": true },
+        { "text": "Rocket engines", "correct": false },
+        { "text": "Air resistance", "correct": false },
+        { "text": "Magnetism", "correct": false }
+      ]
+    },
+    {
+      "id": 83,
+      "question": "A tablecloth can be pulled from under dishes without disturbing them due to:",
+      "answers": [
+        { "text": "Inertia of the dishes", "correct": true },
+        { "text": "Gravity", "correct": false },
+        { "text": "Magic", "correct": false },
+        { "text": "Air pressure", "correct": false }
+      ]
+    },
+    {
+      "id": 84,
+      "question": "Net force equals zero when forces are:",
+      "answers": [
+        { "text": "Balanced", "correct": true },
+        { "text": "Unbalanced", "correct": false },
+        { "text": "Large", "correct": false },
+        { "text": "Small", "correct": false }
+      ]
+    },
+    {
+      "id": 85,
+      "question": "What type of motion requires no force to maintain?",
+      "answers": [
+        { "text": "Constant velocity", "correct": true },
+        { "text": "Acceleration", "correct": false },
+        { "text": "Deceleration", "correct": false },
+        { "text": "Circular motion", "correct": false }
+      ]
+    },
+    {
+      "id": 86,
+      "question": "What type of motion requires force?",
+      "answers": [
+        { "text": "Any change in velocity", "correct": true },
+        { "text": "Constant velocity", "correct": false },
+        { "text": "Being at rest", "correct": false },
+        { "text": "Uniform motion", "correct": false }
+      ]
+    },
+    {
+      "id": 87,
+      "question": "The state of motion of an object is described by:",
+      "answers": [
+        { "text": "Its velocity", "correct": true },
+        { "text": "Its mass", "correct": false },
+        { "text": "Its color", "correct": false },
+        { "text": "Its temperature", "correct": false }
+      ]
+    },
+    {
+      "id": 88,
+      "question": "An unbalanced force will always cause:",
+      "answers": [
+        { "text": "A change in velocity", "correct": true },
+        { "text": "Constant velocity", "correct": false },
+        { "text": "No motion", "correct": false },
+        { "text": "Rest", "correct": false }
+      ]
+    },
+    {
+      "id": 89,
+      "question": "Balanced forces will always result in:",
+      "answers": [
+        { "text": "Constant velocity", "correct": true },
+        { "text": "Acceleration", "correct": false },
+        { "text": "Changing motion", "correct": false },
+        { "text": "Circular path", "correct": false }
+      ]
+    },
+    {
+      "id": 90,
+      "question": "The Law of Inertia was first proposed by:",
+      "answers": [
+        { "text": "Newton", "correct": true },
+        { "text": "Einstein", "correct": false },
+        { "text": "Aristotle", "correct": false },
+        { "text": "Galileo first observed it, Newton formulated the law", "correct": false }
+      ]
+    },
+    {
+      "id": 91,
+      "question": "Inertia is NOT:",
+      "answers": [
+        { "text": "A force", "correct": true },
+        { "text": "A property of matter", "correct": false },
+        { "text": "Related to mass", "correct": false },
+        { "text": "Resistance to change", "correct": false }
+      ]
+    },
+    {
+      "id": 92,
+      "question": "Which best describes inertia?",
+      "answers": [
+        { "text": "A property, not a force", "correct": true },
+        { "text": "A type of force", "correct": false },
+        { "text": "A type of energy", "correct": false },
+        { "text": "A type of motion", "correct": false }
+      ]
+    },
+    {
+      "id": 93,
+      "question": "Constant velocity means both:",
+      "answers": [
+        { "text": "Constant speed AND constant direction", "correct": true },
+        { "text": "Changing speed only", "correct": false },
+        { "text": "Changing direction only", "correct": false },
+        { "text": "Both changing", "correct": false }
+      ]
+    },
+    {
+      "id": 94,
+      "question": "Can an object be accelerating if moving at constant speed?",
+      "answers": [
+        { "text": "Yes, if changing direction", "correct": true },
+        { "text": "No, never", "correct": false },
+        { "text": "Only if speeding up", "correct": false },
+        { "text": "Only if slowing down", "correct": false }
+      ]
+    },
+    {
+      "id": 95,
+      "question": "Velocity is a vector meaning it has:",
+      "answers": [
+        { "text": "Both magnitude and direction", "correct": true },
+        { "text": "Only magnitude", "correct": false },
+        { "text": "Only direction", "correct": false },
+        { "text": "Neither", "correct": false }
+      ]
+    },
+    {
+      "id": 96,
+      "question": "Change in velocity can be:",
+      "answers": [
+        { "text": "Change in speed, direction, or both", "correct": true },
+        { "text": "Only change in speed", "correct": false },
+        { "text": "Only change in direction", "correct": false },
+        { "text": "Neither", "correct": false }
+      ]
+    },
+    {
+      "id": 97,
+      "question": "The natural state of motion according to Newton is:",
+      "answers": [
+        { "text": "Constant velocity", "correct": true },
+        { "text": "At rest only", "correct": false },
+        { "text": "Accelerating", "correct": false },
+        { "text": "Decelerating", "correct": false }
+      ]
+    },
+    {
+      "id": 98,
+      "question": "Objects don't need force to:",
+      "answers": [
+        { "text": "Continue at constant velocity", "correct": true },
+        { "text": "Start moving", "correct": false },
+        { "text": "Stop moving", "correct": false },
+        { "text": "Speed up", "correct": false }
+      ]
+    },
+    {
+      "id": 99,
+      "question": "Objects DO need force to:",
+      "answers": [
+        { "text": "Change their velocity", "correct": true },
+        { "text": "Stay at rest", "correct": false },
+        { "text": "Move at constant speed", "correct": false },
+        { "text": "Have mass", "correct": false }
+      ]
+    },
+    {
+      "id": 100,
+      "question": "The coin tower activity demonstrates that objects resist:",
+      "answers": [
+        { "text": "Changes in their motion", "correct": true },
+        { "text": "Gravity", "correct": false },
+        { "text": "Being stacked", "correct": false },
+        { "text": "Being touched", "correct": false }
+      ]
+    }
+  ]
+}

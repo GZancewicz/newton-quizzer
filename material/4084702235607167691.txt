@@ -1,0 +1,85 @@
+Newton’s Third Law
+EQ: How can we describe forces without words and numbers?
+EQ:Is the sum in all of the forces in the universe an odd or even number?
+Why?
+Enduring Understandings
+● A net force is required to change an
+object’s velocity.
+● No force is required to explain constant
+velocity.
+
+Learning Targets
+▪ Identify and apply Newton’s Laws of Motion to a variety of qualitative and
+quantitative problems.
+▪ Draw free body diagrams (FBD)
+▪ Analyze position versus time, velocity versus time and acceleration versus
+time graphs for regions that represent Newton’s 1st & 2nd Laws.
+▪ Apply Newton’s Laws of Motion to a variety of problems.
+▪ Identify when an object experiences frictional forces
+
+Place the palms of your hands together in front of your chest.
+While keeping the palms of your hand at the center of your chest, push your hands towards one another
+while gradually increasing the amount of force.
+Which hand applied the greatest amount of force on the other? RIGHT
+
+and/or
+
+LEFT
+
+Newton’s Third Law of Motion
+When two bodies interact, the forces on the bodies from each other are always equal in magnitude and
+opposite in direction. These are referred to as Action-Reaction pairs of forces.
+The two bodies interacting are the right and left hands.
+Complete the sentence below by circling either RIGHT or LEFT.
+The force on the RIGHT/LEFT hand from the RIGHT/LEFT hand is equal in magnitude and opposite in
+direction to the force on the RIGHT/LEFT hand from the RIGHT/LEFT hand.
+This is a wordy expression and can be simplified with some common notation. Up to this point we have
+only expressed what type of force is acting ON AN OBJECT with a subscripted letter such as “g” for the
+force of gravity, Fg. Since all of our past problems dealt with just one object there was no need for a better
+notation. But, what if there is more than one object of interest in a problem. How can the forces acting on
+each of the objects be clearly notated to prevent confusion and incorrect force identification? Simple, with
+the following notation
+
+FTYPE, ON, FROM
+For example - Gravity is pulling downward on you. Where is the force of gravity emanating from? The force
+of gravity acting on you is coming from the earth. This force has been expressed in the past as Fg but can
+be expressed more precisely as Fg,YOU, EARTH. This reads as the force of GRAVITY acting ON YOU, FROM
+the EARTH.
+Express the forces acting on each of your hands using this notation.
+
+F______, ________,__________ = F _____, ________,__________
+There are 3 conditions each pair of action-reaction forces must satisfy.
+1. The forces must be the same type.
+2. The forces must act on different objects. (The forces are drawn on different FBDs.)
+3. The subscripts must be reversible, i.e. Fon,from = Ffrom, on
+https://pixabay.com/en/transport-wagon-wheel-2027545/
+https://pixabay.com/en/animal-equine-horse-ride-2029664/
+
+Horse and Cart
+A horse is walking along a rough level road as shown. Draw and identify all the action-reaction forces acting
+on the horse and the earth and complete the chart below.
+
+Type of Force
+
+ON
+
+FROM
+
+FTYPE,ON,FROM
+
+If the horse and earth are considered to be one object, what is the net force acting on the horse/earth
+system?
+All the forces acting on the horse/earth system are referred to as internal forces. Internal forces come in
+pairs (action-reaction) and cancel one another. Therefore, the sum of internal forces is always equal to
+zero. So, can the horse, apart from the earth, change its motion; can the horse accelerate?
+If the horse is the only object of interest, then examine only the forces acting on the horse and ignore the
+forces acting on the earth.
+What is the net force acting on the horse?
+Where did this net force originate from?
+The net force acting on an object is the sum of all external forces. An external force is a force that
+originates from outside the object.
+
+https://pixabay.com/en/transport-wagon-wheel-2027545/
+https://pixabay.com/en/animal-equine-horse-ride-2029664/
+
+
